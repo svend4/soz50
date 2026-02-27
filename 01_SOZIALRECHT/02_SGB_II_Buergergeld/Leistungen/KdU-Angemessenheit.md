@@ -227,7 +227,7 @@ Muster: s. Widerspruch-Musterbrief.md
 
 ## Fallbeispiel
 
-→ [KdU-Widerspruch schlüssiges Konzept](../../../../04_FALLBEISPIELE/SGB_II/2026-02-27_KdU-Widerspruch-Angemessenheit.md)
+→ [KdU-Widerspruch schlüssiges Konzept](../../../04_FALLBEISPIELE/SGB_II/2026-02-27_KdU-Widerspruch-Angemessenheit.md)
 
 ---
 
