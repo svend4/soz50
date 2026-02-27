@@ -137,7 +137,7 @@ Prüffragen:
 ```
 In 04_FALLBEISPIELE/SGB_II/README.md ergänzen:
 
-| [KdU-Widerspruch schlüssiges Konzept](./2026-02-27_KdU-Widerspruch.md) | § 22 SGB II | 2026-02-27 | erfolgreich |
+| [KdU-Widerspruch schlüssiges Konzept](./YYYY-MM-DD_Titel.md) | § 22 SGB II | YYYY-MM-DD | erfolgreich |
 ```
 
 ---

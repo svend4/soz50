@@ -187,6 +187,6 @@ Kostenpflichtig:
 
 ## Смотри также
 
-- [BSG-Urteile SGB II](../../01_SOZIALRECHT/02_SGB_II_Buergergeld/Urteile/Wichtige-BSG-Urteile.md)
-- [SGB III / Arbeitsrecht Urteile](../../01_SOZIALRECHT/02_SGB_II_Buergergeld/Urteile/)
-- [Online Datenbanken](../../05_RESSOURCEN/Online_Datenbanken/)
+- [BSG-Urteile SGB II](../../../01_SOZIALRECHT/02_SGB_II_Buergergeld/Urteile/Wichtige-BSG-Urteile.md)
+- [SGB III / Arbeitsrecht Urteile](../../../01_SOZIALRECHT/02_SGB_II_Buergergeld/Urteile/)
+- [Online Datenbanken](../../../05_RESSOURCEN/Online_Datenbanken/)

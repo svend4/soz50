@@ -215,7 +215,7 @@ In der Praxis:
 □ Sanktion über 30%? (dann BVerfG-Argument)
 □ Psychische Erkrankung? → Erwerbsfähigkeit prüfen!
 □ Musterbrief ausgefüllt und abgeschickt?
-   [→ Musterbrief Sanktionswiderspruch](../Sanktionen/Sanktionswiderspruch-Musterbrief.md)
+   [→ Musterbrief Sanktionswiderspruch](../../01_SOZIALRECHT/02_SGB_II_Buergergeld/Sanktionen/Sanktionswiderspruch-Musterbrief.md)
 ```
 
 ---
