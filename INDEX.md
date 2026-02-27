@@ -1,6 +1,6 @@
 # INDEX — Полный индекс документов
 
-> Автоматически сгенерировано: 2026-02-27 14:25
+> Автоматически сгенерировано: 2026-02-27 14:48
 
 [← Главная](./README.md)
 
@@ -13,17 +13,24 @@
 00_METHODIK/README.md
 00_METHODIK/anleitungen
 00_METHODIK/anleitungen/wie-dokument-hinzufuegen.md
+00_METHODIK/anleitungen/wie-fallbeispiel-hinzufuegen.md
 00_METHODIK/vorlagen
 00_METHODIK/vorlagen/vorlage-aktuelles.md
 00_METHODIK/vorlagen/vorlage-dokument.md
 00_METHODIK/vorlagen/vorlage-fallbeispiel.md
 01_SOZIALRECHT
 01_SOZIALRECHT/01_Grundlagen
+01_SOZIALRECHT/01_Grundlagen/Grundprinzipien.md
 01_SOZIALRECHT/01_Grundlagen/README.md
+01_SOZIALRECHT/01_Grundlagen/SGB-I-Allgemeiner-Teil.md
+01_SOZIALRECHT/01_Grundlagen/Zustaendigkeiten.md
 01_SOZIALRECHT/02_SGB_II_Buergergeld
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Antraege
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Antraege/README.md
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen
+01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/Einkommensanrechnung.md
+01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/KdU-Angemessenheit.md
+01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/Mehrbedarf-Uebersicht.md
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/README.md
 01_SOZIALRECHT/02_SGB_II_Buergergeld/README.md
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Sanktionen
@@ -86,6 +93,7 @@
 02_SOZIALARBEIT/02_Zielgruppen/Kinder_Jugendliche/README.md
 02_SOZIALARBEIT/02_Zielgruppen/Menschen_mit_Behinderung
 02_SOZIALARBEIT/02_Zielgruppen/Menschen_mit_Behinderung/README.md
+02_SOZIALARBEIT/02_Zielgruppen/README.md
 02_SOZIALARBEIT/02_Zielgruppen/Senioren
 02_SOZIALARBEIT/02_Zielgruppen/Senioren/README.md
 02_SOZIALARBEIT/02_Zielgruppen/Suchtbetroffene
@@ -102,6 +110,8 @@
 03_AKTUELLES
 03_AKTUELLES/2025
 03_AKTUELLES/2025/Gesetze
+03_AKTUELLES/2025/Gesetze/2025-01-01_BTHG-Umsetzung-EGH.md
+03_AKTUELLES/2025/Gesetze/2025-04-01_Cannabis-Legalisierung-Sozialrecht.md
 03_AKTUELLES/2025/Gesetze/README.md
 03_AKTUELLES/2025/README.md
 03_AKTUELLES/2025/Urteile
@@ -125,8 +135,12 @@
 04_FALLBEISPIELE/Jugendhilfe/README.md
 04_FALLBEISPIELE/README.md
 04_FALLBEISPIELE/SGB_II
+04_FALLBEISPIELE/SGB_II/2026-02-27_EU-Buerger-SGB-II-Zugang.md
 04_FALLBEISPIELE/SGB_II/2026-02-27_KdU-Widerspruch-Angemessenheit.md
 04_FALLBEISPIELE/SGB_II/README.md
+04_FALLBEISPIELE/SGB_XI
+04_FALLBEISPIELE/SGB_XI/2026-02-27_Pflegegrad-Widerspruch-Erhöhung.md
+04_FALLBEISPIELE/SGB_XI/README.md
 04_FALLBEISPIELE/SGB_XII
 04_FALLBEISPIELE/SGB_XII/2026-02-27_Grundsicherung-Vermoegensfreibetrag.md
 04_FALLBEISPIELE/SGB_XII/README.md
@@ -140,9 +154,11 @@
 05_RESSOURCEN/Online_Datenbanken
 05_RESSOURCEN/Online_Datenbanken/README.md
 05_RESSOURCEN/README.md
+CHANGELOG.md
 INDEX.md
 README.md
 SCHNELLREFERENZ.md
+THEMEN.md
 scripts
 ```
 
@@ -154,11 +170,18 @@ scripts
 |------|------|------|-----|
 | [00 Methodik — Методология](./00_METHODIK/README.md) | SGB II | SGB XII | AsylbLG | ... | YYYY-MM-DD | Gesetz | Urteil | Kommentar | Vorlage | Fallbeispiel | Aktuelles |
 | [Wie füge ich ein Dokument hinzu?](./00_METHODIK/anleitungen/wie-dokument-hinzufuegen.md) | SGB II | 2026-02-27 | Kommentar |
+| [Wie füge ich ein Fallbeispiel hinzu?](./00_METHODIK/anleitungen/wie-fallbeispiel-hinzufuegen.md) | Fallbeispiel hinzufügen | 2026-02-27 | Anleitung |
 | [Titel: kurze Beschreibung der Änderung](./00_METHODIK/vorlagen/vorlage-aktuelles.md) | SGB II | SGB XII | AsylbLG | ... | YYYY-MM-DD | Aktuelles |
 | [Titel des Dokuments](./00_METHODIK/vorlagen/vorlage-dokument.md) | SGB II | YYYY-MM-DD | Kommentar |
 | [Fall: [Kurztitel]](./00_METHODIK/vorlagen/vorlage-fallbeispiel.md) | SGB II | SGB XII | Jugendhilfe | Auslaenderrecht | YYYY-MM-DD | Fallbeispiel |
+| [Grundprinzipien des deutschen Sozialrechts](./01_SOZIALRECHT/01_Grundlagen/Grundprinzipien.md) | Grundprinzipien Sozialrecht | 2026-02-27 | Kommentar |
 | [Grundlagen des Sozialrechts — Основы социального права](./01_SOZIALRECHT/01_Grundlagen/README.md) | — | — | — |
+| [SGB I — Allgemeiner Teil des Sozialgesetzbuches](./01_SOZIALRECHT/01_Grundlagen/SGB-I-Allgemeiner-Teil.md) | SGB I | 2026-02-27 | Kommentar |
+| [Zuständigkeiten im Sozialrecht — Wer ist wofür zuständig?](./01_SOZIALRECHT/01_Grundlagen/Zustaendigkeiten.md) | Zuständigkeiten Sozialrecht | 2026-02-27 | Kommentar |
 | [Anträge beim Jobcenter — Заявления в Jobcenter](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Antraege/README.md) | — | — | — |
+| [Einkommensanrechnung — §§ 11–11b SGB II](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/Einkommensanrechnung.md) | Einkommensanrechnung SGB II | 2026-02-27 | Kommentar |
+| [KdU — Kosten der Unterkunft und Heizung (§ 22 SGB II)](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/KdU-Angemessenheit.md) | KdU Angemessenheit | 2026-02-27 | Kommentar |
+| [Mehrbedarf — § 21 SGB II (Übersicht)](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/Mehrbedarf-Uebersicht.md) | Mehrbedarf SGB II | 2026-02-27 | Kommentar |
 | [Leistungen nach SGB II — Виды выплат](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/README.md) | — | — | — |
 | [SGB II — Bürgergeld (Grundsicherung für Arbeitsuchende)](./01_SOZIALRECHT/02_SGB_II_Buergergeld/README.md) | — | — | — |
 | [Sanktionen im SGB II — Санкции](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Sanktionen/README.md) | — | — | — |
@@ -191,6 +214,7 @@ scripts
 | [Geflüchtete — Беженцы и мигранты](./02_SOZIALARBEIT/02_Zielgruppen/Gefluechtete/README.md) | — | — | — |
 | [Kinder und Jugendliche — Дети и молодёжь](./02_SOZIALARBEIT/02_Zielgruppen/Kinder_Jugendliche/README.md) | — | — | — |
 | [Menschen mit Behinderung — Люди с инвалидностью](./02_SOZIALARBEIT/02_Zielgruppen/Menschen_mit_Behinderung/README.md) | — | — | — |
+| [Zielgruppen der Sozialen Arbeit — Übersicht](./02_SOZIALARBEIT/02_Zielgruppen/README.md) | — | — | — |
 | [Senioren — Пожилые люди](./02_SOZIALARBEIT/02_Zielgruppen/Senioren/README.md) | — | — | — |
 | [Suchtbetroffene — Люди с зависимостями](./02_SOZIALARBEIT/02_Zielgruppen/Suchtbetroffene/README.md) | — | — | — |
 | [Wohnungslose — Люди без жилья](./02_SOZIALARBEIT/02_Zielgruppen/Wohnungslose/README.md) | — | — | — |
@@ -198,6 +222,8 @@ scripts
 | [Dokumentation in der Sozialarbeit — Документирование](./02_SOZIALARBEIT/04_Dokumentation/README.md) | — | — | — |
 | [Institutionen & Träger — Ведомства и организации](./02_SOZIALARBEIT/05_Institutionen/README.md) | — | — | — |
 | [02 Sozialarbeit — Социальная работа](./02_SOZIALARBEIT/README.md) | — | — | — |
+| [BTHG — Bundesteilhabegesetz: Stand und Entwicklungen 2025](./03_AKTUELLES/2025/Gesetze/2025-01-01_BTHG-Umsetzung-EGH.md) | BTHG Eingliederungshilfe | 2025-01-01 | Aktuelles |
+| [Cannabis-Legalisierung — Auswirkungen auf das Sozialrecht](./03_AKTUELLES/2025/Gesetze/2025-04-01_Cannabis-Legalisierung-Sozialrecht.md) | Cannabis-Gesetz Sozialrecht | 2025-04-01 | Aktuelles |
 | [Gesetzliche Änderungen 2025](./03_AKTUELLES/2025/Gesetze/README.md) | — | — | — |
 | [Aktuelles 2025](./03_AKTUELLES/2025/README.md) | — | — | — |
 | [Wichtige Urteile 2025](./03_AKTUELLES/2025/Urteile/README.md) | — | — | — |
@@ -212,8 +238,11 @@ scripts
 | [Fall: Jugendamt lehnt SPFH ab — erfolgreicher Widerspruch](./04_FALLBEISPIELE/Jugendhilfe/2026-02-27_SPFH-Antrag-abgelehnt-Widerspruch.md) | SGB VIII | 2026-02-27 | Fallbeispiel |
 | [Fallbeispiele Jugendhilfe — Случаи по SGB VIII](./04_FALLBEISPIELE/Jugendhilfe/README.md) | — | — | — |
 | [04 Fallbeispiele — Случаи из практики](./04_FALLBEISPIELE/README.md) | — | — | — |
+| [Fallbeispiel: EU-Bürger — Zugang zu SGB II trotz Ausschlussklausel](./04_FALLBEISPIELE/SGB_II/2026-02-27_EU-Buerger-SGB-II-Zugang.md) | EU-Bürger SGB II Zugang | 2026-02-27 | Fallbeispiel |
 | [Fall: Jobcenter kürzt Miete — kein schlüssiges Konzept](./04_FALLBEISPIELE/SGB_II/2026-02-27_KdU-Widerspruch-Angemessenheit.md) | SGB II | 2026-02-27 | Fallbeispiel |
 | [Fallbeispiele SGB II — Случаи по Bürgergeld](./04_FALLBEISPIELE/SGB_II/README.md) | — | — | — |
+| [Fallbeispiel: Pflegegrad-Widerspruch — Begutachtung angefochten](./04_FALLBEISPIELE/SGB_XI/2026-02-27_Pflegegrad-Widerspruch-Erhöhung.md) | Pflegegrad Widerspruch | 2026-02-27 | Fallbeispiel |
+| [Fallbeispiele SGB XI — Pflege](./04_FALLBEISPIELE/SGB_XI/README.md) | — | — | — |
 | [Fall: Grundsicherung abgelehnt — Schonvermögen verkannt](./04_FALLBEISPIELE/SGB_XII/2026-02-27_Grundsicherung-Vermoegensfreibetrag.md) | SGB XII | 2026-02-27 | Fallbeispiel |
 | [Fallbeispiele SGB XII — Случаи по Sozialhilfe](./04_FALLBEISPIELE/SGB_XII/README.md) | — | — | — |
 | [Behörden — Ведомства](./05_RESSOURCEN/Behoerden/README.md) | — | — | — |
@@ -221,8 +250,10 @@ scripts
 | [Formulare — Формуляры](./05_RESSOURCEN/Formulare/README.md) | — | — | — |
 | [Online-Datenbanken & Recherche — Базы данных](./05_RESSOURCEN/Online_Datenbanken/README.md) | — | — | — |
 | [05 Ressourcen — Ресурсы](./05_RESSOURCEN/README.md) | — | — | — |
+| [CHANGELOG — Änderungsprotokoll](./CHANGELOG.md) | — | — | — |
 | [Sozialrecht & Sozialarbeit — Wissensbasis / База знаний](./README.md) | — | — | — |
 | [Schnellreferenz — Шпаргалка для быстрой навигации](./SCHNELLREFERENZ.md) | — | — | — |
+| [THEMEN — Thematischer Querindex](./THEMEN.md) | — | — | — |
 
 ---
 *Сгенерировано: 2026-02-27*
