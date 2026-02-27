@@ -7,6 +7,25 @@
 
 ---
 
+## 2026-02-27 — Session 9 (Grundsicherung, Inobhutnahme, UhV, GKV, Kinder, Sucht, Ressourcen)
+
+### Neu erstellt
+
+**01_SOZIALRECHT:**
+- `03_SGB_XII_Sozialhilfe/Grundsicherung/Grundsicherung-im-Alter-Praxis.md` — § 41 SGB XII, Elternunterhalt § 94 Abs. 1a (kein Rückgriff!), Schonvermögen, Eigenheim, Zuzahlungsbefreiung, Antragsfehler
+- `04_SGB_VIII_Jugendhilfe/Inobhutnahme/Inobhutnahme.md` — § 42 SGB VIII Voraussetzungen, Ablauf, Elternrechte, UMA § 42a, § 8a Schutzauftrag, Meldebefugnis
+- `04_SGB_VIII_Jugendhilfe/Unterhaltsvorschuss/Unterhaltsvorschuss.md` — UhVG Anspruch, Beträge 2026, Anrechnung SGB II, Mitwirkungspflicht, Schutz bei häuslicher Gewalt
+- `08_Krankenversicherung/GKV-Grundlagen.md` — Pflichtversicherung § 5 SGB V, Familienversicherung, GKV bei SGB II/XII/AsylbLG, Versicherungslücken, Zuzahlungsbefreiung
+
+**02_SOZIALARBEIT/02_Zielgruppen:**
+- `Kinder_Jugendliche/Hilfen-im-Ueberblick.md` — Kinderrechte SGB VIII, Schulbegleitung, Übergänge 18/21, LGBTIQ+-Jugendliche, UMA, Gesprächsführung
+- `Suchtbetroffene/Hilfen-im-Ueberblick.md` — Hilfesystem Stufenmodell, Substitution, Entwöhnungstherapie DRV, akzeptierende Sozialarbeit, Harm Reduction
+
+**05_RESSOURCEN:**
+- `Online_Datenbanken/Rechtsdatenbanken.md` — gesetze-im-internet.de, sozialgerichtsbarkeit.de, tacheles, proasyl, juris, Berechnungstools, Newsletter
+
+---
+
 ## 2026-02-27 — Session 8 (Wohnungslosigkeit, Asylverfahren, Zielgruppen, Behörden, Beratung)
 
 ### Neu erstellt
