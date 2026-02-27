@@ -54,10 +54,11 @@ MISSING_META=0
 while IFS= read -r file; do
     rel="${file#$ROOT/}"
 
-    # Пропускаем шаблоны и системные файлы
+    # Пропускаем шаблоны, системные файлы и README (навигационные, без YAML)
     if [[ "$file" == *"/vorlagen/"* ]] || \
        [[ "$rel" == "INDEX.md" ]] || \
-       [[ "$rel" == "WARTUNG-BERICHT.md" ]]; then
+       [[ "$rel" == "WARTUNG-BERICHT.md" ]] || \
+       [[ "$(basename "$file")" == "README.md" ]]; then
         continue
     fi
 
@@ -129,10 +130,18 @@ while IFS= read -r file; do
     [[ "$file" == *"/vorlagen/"* ]] && continue
 
     # Извлекаем все внутренние Markdown-ссылки (не HTTP)
+    # Примечание: ссылки внутри code-блоков тоже захватываются (ограничение grep)
+    # Workaround: пропускаем ссылки на явно несуществующие placeholder-имена
     while IFS= read -r link; do
         # Убираем якоря (#...)
         target="${link%%#*}"
         [ -z "$target" ] && continue
+
+        # Пропускаем placeholder-имена (не реальные файлы)
+        filename_only="${target##*/}"
+        case "$filename_only" in
+            Dateiname.md|YYYY-MM-DD_Titel.md|Beispiel.md|placeholder.md) continue ;;
+        esac
 
         # Строим абсолютный путь
         if [[ "$target" == /* ]]; then

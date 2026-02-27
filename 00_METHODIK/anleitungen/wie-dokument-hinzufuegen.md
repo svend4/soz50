@@ -66,9 +66,10 @@ status: aktuell
 
 Открой `README.md` той папки, куда добавил документ, и добавь строку в таблицу:
 
-```markdown
-| [2026-02-27_KdU-Angemessenheit.md](./2026-02-27_KdU-Angemessenheit.md) | Angemessenheit KdU — решение BSG |
 ```
+| Dateiname.md | Kurzbeschreibung |
+```
+*(Markdown-Syntax: `[Dateiname.md](./Dateiname.md)`)*
 
 ---
 

@@ -1,6 +1,6 @@
 # Wartungsbericht / Отчёт об обслуживании
 
-> Автоматически сгенерирован: 2026-02-27 15:08
+> Автоматически сгенерирован: 2026-02-27 15:25
 
 [← Главная](./README.md)
 
@@ -10,46 +10,12 @@
 
 | Файл | Проблема |
 |------|---------|
-| `01_SOZIALRECHT/01_Grundlagen/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `01_SOZIALRECHT/02_SGB_II_Buergergeld/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `01_SOZIALRECHT/05_SGB_XI_Pflege/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `01_SOZIALRECHT/06_Auslaenderrecht/AsylbLG/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `01_SOZIALRECHT/06_Auslaenderrecht/Asylrecht/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `01_SOZIALRECHT/06_Auslaenderrecht/Aufenthaltsrecht/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `01_SOZIALRECHT/06_Auslaenderrecht/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `01_SOZIALRECHT/07_Wohnen_Unterkunft/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `01_SOZIALRECHT/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `02_SOZIALARBEIT/01_Methoden/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `02_SOZIALARBEIT/02_Zielgruppen/Gefluechtete/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `02_SOZIALARBEIT/02_Zielgruppen/Wohnungslose/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `02_SOZIALARBEIT/03_Beratung/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `02_SOZIALARBEIT/04_Dokumentation/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `02_SOZIALARBEIT/05_Institutionen/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `02_SOZIALARBEIT/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `03_AKTUELLES/2025/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `03_AKTUELLES/2026/Februar/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `03_AKTUELLES/2026/Januar/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `03_AKTUELLES/2026/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `03_AKTUELLES/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `04_FALLBEISPIELE/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `04_FALLBEISPIELE/SGB_II/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `05_RESSOURCEN/README.md` | Отсутствуют поля: datum,typ,thema,status |
-| `README.md` | Отсутствуют поля: datum,typ,thema,status |
+| — | Все документы в порядке ✅ |
 
 ## 2. Внутренние ссылки
 
 | Файл | Сломанная ссылка |
 |------|----------------|
-| `00_METHODIK/anleitungen/wie-dokument-hinzufuegen.md` | `./2026-02-27_KdU-Angemessenheit.md` — файл не найден |
-| `01_SOZIALRECHT/01_Grundlagen/README.md` | `./SGB-I-Allgemeiner-Teil.md` — файл не найден |
-| `01_SOZIALRECHT/01_Grundlagen/README.md` | `./Grundprinzipien.md` — файл не найден |
-| `01_SOZIALRECHT/01_Grundlagen/README.md` | `./Zustaendigkeiten.md` — файл не найден |
-| `01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/README.md` | `./KdU-Grundlagen.md` — файл не найден |
-| `01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/README.md` | `./Angemessenheit-KdU.md` — файл не найден |
 | `01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/README.md` | `./widerspruch-vorlage.md` — файл не найден |
 | `01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/README.md` | `./einstweiliger-rechtsschutz.md` — файл не найден |
 | `01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/README.md` | `./beratungsstellen.md` — файл не найден |
@@ -99,9 +65,9 @@
 
 | Показатель | Значение |
 |-----------|---------|
-| Всего документов (.md) | 46 |
+| Всего документов (.md) | 51 |
 | Всего папок | 63 |
-| Статус: aktuell | 13 |
+| Статус: aktuell | 18 |
 | Статус: veraltet | 0 |
 | Статус: in-bearbeitung | 0 |
 
@@ -111,10 +77,10 @@
 
 | | Количество |
 |-|-----------|
-| 🔴 Ошибки (Fehler) | 12 |
-| 🟡 Предупреждения (Warnungen) | 58 |
+| 🔴 Ошибки (Fehler) | 6 |
+| 🟡 Предупреждения (Warnungen) | 29 |
 
 ---
 
-*Отчёт сгенерирован: 2026-02-27 15:08*
+*Отчёт сгенерирован: 2026-02-27 15:25*
 *Скрипт: `scripts/wartung.sh`*
