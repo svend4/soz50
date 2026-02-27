@@ -223,6 +223,14 @@ Häufige Streitpunkte:
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [Sperrzeit — Widerspruch](./Sperrzeit-Widerspruch.md) | Schnellcheck, Wichtige Gründe, Musterbrief |
+
+---
+
 ## Смотри также
 
 - [Arbeitsrecht](../10_Arbeitsrecht/)

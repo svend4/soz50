@@ -108,6 +108,14 @@ Aber: Sozialhilfe kann ausnahmsweise ab Kenntnisnahme gewährt werden.
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [Widerspruch bei Ablehnung/Kürzung](./Grundsicherung-Widerspruch.md) | 5 Ablehnungsgründe mit Gegenargumenten, Musterbrief, Eilrechtsschutz |
+
+---
+
 ## Смотри также
 
 - [SGB XII — Übersicht](../README.md)

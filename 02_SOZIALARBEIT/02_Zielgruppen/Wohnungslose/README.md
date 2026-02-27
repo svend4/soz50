@@ -61,6 +61,14 @@
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [Erstberatung & Akuthilfe](./wohnungslos-erstberatung.md) | Checkliste Erstgespräch, Sofort-Check, Maßnahmen je Situation |
+
+---
+
 ## Смотри также
 
 - [§ 67 SGB XII](../../../01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/)
