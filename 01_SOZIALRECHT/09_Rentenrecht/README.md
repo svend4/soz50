@@ -129,6 +129,14 @@ Beantragen: beim DRV (VBEV-Antrag)
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [Rentenarten-Uebersicht.md](./Rentenarten-Uebersicht.md) | Rentenarten — Überblick SGB VI |
+
+---
+
 ## Смотри также
 
 - [Grundsicherung SGB XII § 41](../03_SGB_XII_Sozialhilfe/Grundsicherung/)

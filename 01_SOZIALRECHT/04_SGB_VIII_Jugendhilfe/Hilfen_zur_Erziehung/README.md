@@ -119,6 +119,14 @@ Abgrenzung:
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [HzE-Anspruch.md](./HzE-Anspruch.md) | HzE — Anspruch, Hilfeplan, Leistungsarten |
+
+---
+
 ## Смотри также
 
 - [Inobhutnahme § 42](../Inobhutnahme/)

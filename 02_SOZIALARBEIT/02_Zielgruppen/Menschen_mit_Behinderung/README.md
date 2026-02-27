@@ -126,6 +126,14 @@ Ab GdB 50 (anerkannt oder gleichgestellt ab GdB 30):
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [Leistungen-Uebersicht.md](./Leistungen-Uebersicht.md) | Zielgruppe Menschen mit Behinderung — Leistungsübersicht |
+
+---
+
 ## Смотри также
 
 - [Eingliederungshilfe SGB IX](../../../01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Eingliederungshilfe/)

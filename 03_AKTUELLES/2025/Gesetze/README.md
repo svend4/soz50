@@ -8,7 +8,8 @@
 
 | Datei | Gesetz | In Kraft | Thema |
 |-------|--------|---------|-------|
-| *(добавить документы)* | | | |
+| [2025-01-01_BTHG-Umsetzung-EGH.md](./2025-01-01_BTHG-Umsetzung-EGH.md) | BTHG / Eingliederungshilfe SGB IX | 01.01.2025 | Umsetzungsstand EGH |
+| [2025-04-01_Cannabis-Legalisierung-Sozialrecht.md](./2025-04-01_Cannabis-Legalisierung-Sozialrecht.md) | CanG — Sozialrechtliche Folgen | 01.04.2025 | Cannabis-Legalisierung |
 
 ---
 

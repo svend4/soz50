@@ -78,6 +78,14 @@ WICHTIG: § 2-Leistungen nicht automatisch!
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [Leistungen-Uebersicht.md](./Leistungen-Uebersicht.md) | AsylbLG — Leistungen im Detail |
+
+---
+
 ## Смотри также
 
 - [Asylrecht](../Asylrecht/)

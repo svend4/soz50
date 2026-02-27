@@ -127,6 +127,14 @@ Eine Arbeit ist **nicht zumutbar** wenn:
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [Sanktionswiderspruch-Musterbrief.md](./Sanktionswiderspruch-Musterbrief.md) | Musterbrief — Widerspruch gegen Sanktionsbescheid |
+
+---
+
 ## Смотри также
 
 - [Widerspruch — Ablauf und Musterbrief](../Widerspruch/)

@@ -47,6 +47,14 @@
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [Pflegegrad-Berechnung.md](./Pflegegrad-Berechnung.md) | Pflegegrad — Berechnung, Begutachtung, Widerspruch |
+
+---
+
 ## Schnittstellen
 
 - **SGB XII § 61ff** — Hilfe zur Pflege (wenn SGB XI nicht reicht)

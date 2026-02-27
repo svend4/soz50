@@ -13,6 +13,7 @@
 | [Wie Dokument hinzufügen](./wie-dokument-hinzufuegen.md) | Neues Inhaltsdokument erstellen |
 | [Wie Fallbeispiel hinzufügen](./wie-fallbeispiel-hinzufuegen.md) | Fallbeispiel dokumentieren |
 | [Suche — Kurzreferenz](./suche-kurzreferenz.md) | Effektive Suche in der Wissensbasis |
+| [Methoden — Große Datenmengen](./methoden-grosse-datenmengen.md) | Umgang mit großen Informationsmengen |
 
 ---
 

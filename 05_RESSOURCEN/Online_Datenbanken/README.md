@@ -85,6 +85,14 @@ Google Scholar: scholar.google.de → Rechtsprechung
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [Informationsmanagement-Tools.md](./Informationsmanagement-Tools.md) | Инструменты для работы с информацией |
+
+---
+
 ## Qualitätsprüfung von Quellen
 
 ```

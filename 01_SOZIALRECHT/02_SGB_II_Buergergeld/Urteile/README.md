@@ -91,6 +91,14 @@ Senat-Zuständigkeit:
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [Wichtige-BSG-Urteile.md](./Wichtige-BSG-Urteile.md) | Wichtige BSG-Urteile zu SGB II / Bürgergeld |
+
+---
+
 ## Где искать решения
 
 | Ресурс | Что |

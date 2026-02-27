@@ -55,6 +55,14 @@ Aufenthaltstitel (§ 4 AufenthG)
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [Aufenthaltstitel-Sozialrecht.md](./Aufenthaltstitel-Sozialrecht.md) | Aufenthaltstitel und Zugangsberechtigung zu Sozialleistungen |
+
+---
+
 ## Freizügigkeit — граждане ЕС
 
 Граждане ЕС имеют право свободного передвижения (FreizügG/EU).

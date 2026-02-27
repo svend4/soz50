@@ -9,6 +9,8 @@
 | Файл | Тема | Дата | Итог |
 |------|------|------|------|
 | [2026-02-27_KdU-Widerspruch-Angemessenheit.md](./2026-02-27_KdU-Widerspruch-Angemessenheit.md) | KdU-Kürzung, fehlendes schlüssiges Konzept | 2026-02-27 | offen |
+| [2026-02-27_EU-Buerger-SGB-II-Zugang.md](./2026-02-27_EU-Buerger-SGB-II-Zugang.md) | EU-Bürger — Zugang zu SGB II trotz Ausschlussklausel | 2026-02-27 | erfolgreich |
+| [2026-02-27_Sanktion-Widerspruch-BVerfG.md](./2026-02-27_Sanktion-Widerspruch-BVerfG.md) | Sanktionswiderspruch — Anhörungsfehler + psychische Erkrankung | 2026-02-27 | erfolgreich |
 
 ---
 

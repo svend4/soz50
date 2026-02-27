@@ -43,6 +43,14 @@
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [SGB-XII-Einkommensanrechnung.md](./SGB-XII-Einkommensanrechnung.md) | Einkommens- und Vermögensanrechnung nach SGB XII |
+
+---
+
 ## Subsidiarität — очерёдность
 
 ```

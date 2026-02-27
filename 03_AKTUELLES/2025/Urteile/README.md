@@ -8,7 +8,7 @@
 
 | Datei | Gericht | Az. | Thema |
 |-------|---------|-----|-------|
-| *(добавить документы по мере поступления)* | | | |
+| [2025_Wichtige-Sozialgerichtsurteile.md](./2025_Wichtige-Sozialgerichtsurteile.md) | BSG, BVerfG, EuGH | mehrere | Jahresüberblick 2025 |
 
 ---
 

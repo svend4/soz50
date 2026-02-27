@@ -108,6 +108,14 @@ Ausländer:
 
 ---
 
+## Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [Antragstellung-Leitfaden.md](./Antragstellung-Leitfaden.md) | Schritt-für-Schritt-Leitfaden zur Antragstellung |
+
+---
+
 ## Смотри также
 
 - [Leistungen SGB II](../Leistungen/)

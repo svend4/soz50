@@ -6,7 +6,9 @@
 
 ## Документы этого месяца
 
-*(здесь будут появляться новые документы — законы, решения, изменения)*
+| Datei | Thema |
+|-------|-------|
+| [2026-02-27_Aktuell-Sozialrecht-Februar.md](./2026-02-27_Aktuell-Sozialrecht-Februar.md) | Aktuell: Sozialrecht im Februar 2026 |
 
 ---
 
