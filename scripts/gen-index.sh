@@ -22,6 +22,7 @@ echo "## Структура"                        >> "$OUTPUT"
 echo ""                                    >> "$OUTPUT"
 echo '```'                                 >> "$OUTPUT"
 find "$ROOT" \
+    -not -path "*/.git" \
     -not -path "*/.git/*" \
     -not -path "*/scripts/*" \
     -not -name ".gitkeep" \
@@ -29,6 +30,7 @@ find "$ROOT" \
     | sed "s|$ROOT/||" \
     | sed "s|$ROOT||" \
     | grep -v "^$" \
+    | grep -v "^\.git" \
     >> "$OUTPUT"
 echo '```'                                 >> "$OUTPUT"
 echo ""                                    >> "$OUTPUT"
