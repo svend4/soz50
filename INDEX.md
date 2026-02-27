@@ -1,6 +1,6 @@
 # INDEX — Полный индекс документов
 
-> Автоматически сгенерировано: 2026-02-27 16:43
+> Автоматически сгенерировано: 2026-02-27 17:13
 
 [← Главная](./README.md)
 
@@ -74,6 +74,7 @@
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Urteile/SGB-VIII-Urteile.md
 01_SOZIALRECHT/05_SGB_XI_Pflege
 01_SOZIALRECHT/05_SGB_XI_Pflege/Pflegegrad-Berechnung.md
+01_SOZIALRECHT/05_SGB_XI_Pflege/Pflegegrad-Leistungen-Ambulant.md
 01_SOZIALRECHT/05_SGB_XI_Pflege/README.md
 01_SOZIALRECHT/06_Auslaenderrecht
 01_SOZIALRECHT/06_Auslaenderrecht/AsylbLG
@@ -96,6 +97,7 @@
 01_SOZIALRECHT/08_Krankenversicherung/GKV-Grundlagen.md
 01_SOZIALRECHT/08_Krankenversicherung/README.md
 01_SOZIALRECHT/09_Rentenrecht
+01_SOZIALRECHT/09_Rentenrecht/EM-Rente-Verfahren.md
 01_SOZIALRECHT/09_Rentenrecht/README.md
 01_SOZIALRECHT/09_Rentenrecht/Rentenarten-Uebersicht.md
 01_SOZIALRECHT/10_Arbeitsrecht
@@ -144,6 +146,7 @@
 02_SOZIALARBEIT/README.md
 03_AKTUELLES
 03_AKTUELLES/2025
+03_AKTUELLES/2025/Aenderungen-2025.md
 03_AKTUELLES/2025/Gesetze
 03_AKTUELLES/2025/Gesetze/2025-01-01_BTHG-Umsetzung-EGH.md
 03_AKTUELLES/2025/Gesetze/2025-04-01_Cannabis-Legalisierung-Sozialrecht.md
@@ -156,6 +159,7 @@
 03_AKTUELLES/2025/Verwaltung/2025_Verwaltungsaenderungen.md
 03_AKTUELLES/2025/Verwaltung/README.md
 03_AKTUELLES/2026
+03_AKTUELLES/2026/Aenderungen-2026.md
 03_AKTUELLES/2026/Februar
 03_AKTUELLES/2026/Februar/2026-02-27_Aktuell-Sozialrecht-Februar.md
 03_AKTUELLES/2026/Februar/README.md
@@ -178,6 +182,9 @@
 04_FALLBEISPIELE/SGB_II/2026-02-27_KdU-Widerspruch-Angemessenheit.md
 04_FALLBEISPIELE/SGB_II/2026-02-27_Sanktion-Widerspruch-BVerfG.md
 04_FALLBEISPIELE/SGB_II/README.md
+04_FALLBEISPIELE/SGB_IX
+04_FALLBEISPIELE/SGB_IX/2026-02-27_GdB-Neufeststellung-Widerspruch.md
+04_FALLBEISPIELE/SGB_IX/README.md
 04_FALLBEISPIELE/SGB_XI
 04_FALLBEISPIELE/SGB_XI/2026-02-27_Pflegegrad-Widerspruch-Erhöhung.md
 04_FALLBEISPIELE/SGB_XI/README.md
@@ -256,6 +263,7 @@ scripts
 | [Urteile SGB VIII — Судебные решения по Jugendhilfe](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Urteile/README.md) | — | — | — |
 | [Wichtige Urteile im SGB VIII / Jugendhilferecht](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Urteile/SGB-VIII-Urteile.md) | Wichtige Urteile im SGB VIII / Jugendhilferecht | 2026-02-27 | Kommentar |
 | [Pflegegrad — Berechnung, Begutachtung, Widerspruch](./01_SOZIALRECHT/05_SGB_XI_Pflege/Pflegegrad-Berechnung.md) | Pflegegrad Begutachtung und Berechnung | 2026-02-27 | Kommentar |
+| [Ambulante Pflegeleistungen SGB XI](./01_SOZIALRECHT/05_SGB_XI_Pflege/Pflegegrad-Leistungen-Ambulant.md) | Ambulante Pflegeleistungen SGB XI — Überblick | 2026-02-27 | Kommentar |
 | [SGB XI — Soziale Pflegeversicherung](./01_SOZIALRECHT/05_SGB_XI_Pflege/README.md) | — | — | — |
 | [AsylbLG — Leistungen im Detail](./01_SOZIALRECHT/06_Auslaenderrecht/AsylbLG/Leistungen-Uebersicht.md) | AsylbLG Leistungen | 2026-02-27 | Kommentar |
 | [AsylbLG — Asylbewerberleistungsgesetz](./01_SOZIALRECHT/06_Auslaenderrecht/AsylbLG/README.md) | — | — | — |
@@ -270,6 +278,7 @@ scripts
 | [Wohnungslosigkeit — Hilfen, Rechte, Prävention](./01_SOZIALRECHT/07_Wohnen_Unterkunft/Wohnungslosigkeit-Hilfen.md) | Wohnungslosigkeit und Wohnungssicherung | 2026-02-27 | Kommentar |
 | [Gesetzliche Krankenversicherung — Grundlagen und Zugangswege](./01_SOZIALRECHT/08_Krankenversicherung/GKV-Grundlagen.md) | Gesetzliche Krankenversicherung | 2026-02-27 | Kommentar |
 | [Krankenversicherung — Медицинское страхование](./01_SOZIALRECHT/08_Krankenversicherung/README.md) | — | — | — |
+| [Erwerbsminderungsrente (EM-Rente) — Verfahren und Beratung](./01_SOZIALRECHT/09_Rentenrecht/EM-Rente-Verfahren.md) | Erwerbsminderungsrente — Verfahren und Beratung | 2026-02-27 | Kommentar |
 | [Rentenrecht — Пенсионное право](./01_SOZIALRECHT/09_Rentenrecht/README.md) | — | — | — |
 | [Rentenarten — Überblick SGB VI](./01_SOZIALRECHT/09_Rentenrecht/Rentenarten-Uebersicht.md) | Rentenarten Übersicht | 2026-02-27 | Kommentar |
 | [Kündigung und Abmahnung — Arbeitsrechtliche Praxis](./01_SOZIALRECHT/10_Arbeitsrecht/Kuendigung-Abmahnung.md) | Kündigung und Abmahnung im Arbeitsrecht | 2026-02-27 | Kommentar |
@@ -301,6 +310,7 @@ scripts
 | [Institutionen und Träger der Sozialen Arbeit](./02_SOZIALARBEIT/05_Institutionen/Institutionen-Uebersicht.md) | Institutionen und Träger der Sozialen Arbeit | 2026-02-27 | Kommentar |
 | [Institutionen & Träger — Ведомства и организации](./02_SOZIALARBEIT/05_Institutionen/README.md) | — | — | — |
 | [02 Sozialarbeit — Социальная работа](./02_SOZIALARBEIT/README.md) | — | — | — |
+| [Rechtsänderungen 2025 — Sozialrecht](./03_AKTUELLES/2025/Aenderungen-2025.md) | Wichtige Rechtsänderungen im Sozialrecht 2025 | 2026-02-27 | Kommentar |
 | [BTHG — Bundesteilhabegesetz: Stand und Entwicklungen 2025](./03_AKTUELLES/2025/Gesetze/2025-01-01_BTHG-Umsetzung-EGH.md) | BTHG Eingliederungshilfe | 2025-01-01 | Aktuelles |
 | [Cannabis-Legalisierung — Auswirkungen auf das Sozialrecht](./03_AKTUELLES/2025/Gesetze/2025-04-01_Cannabis-Legalisierung-Sozialrecht.md) | Cannabis-Gesetz Sozialrecht | 2025-04-01 | Aktuelles |
 | [Gesetzliche Änderungen 2025](./03_AKTUELLES/2025/Gesetze/README.md) | — | — | — |
@@ -309,6 +319,7 @@ scripts
 | [Wichtige Urteile 2025](./03_AKTUELLES/2025/Urteile/README.md) | — | — | — |
 | [Verwaltungsänderungen 2025 — Sozialrecht und Behördenpraxis](./03_AKTUELLES/2025/Verwaltung/2025_Verwaltungsaenderungen.md) | Verwaltungsänderungen 2025 — Sozialrecht und Behördenpraxis | 2026-02-27 | Aktuelles |
 | [Verwaltungsänderungen 2025](./03_AKTUELLES/2025/Verwaltung/README.md) | — | — | — |
+| [Rechtsänderungen 2026 — Stand Februar 2026](./03_AKTUELLES/2026/Aenderungen-2026.md) | Rechtsänderungen im Sozialrecht 2026 — Stand Februar 2026 | 2026-02-27 | Kommentar |
 | [Aktuell: Sozialrecht im Februar 2026](./03_AKTUELLES/2026/Februar/2026-02-27_Aktuell-Sozialrecht-Februar.md) | Sozialrecht Februar 2026 | 2026-02-27 | Aktuelles |
 | [Februar 2026](./03_AKTUELLES/2026/Februar/README.md) | — | — | — |
 | [Bürgergeld — Regelbedarfssätze ab 01.01.2026](./03_AKTUELLES/2026/Januar/2026-01-01_Buergergeld-Regelsaetze-2026.md) | SGB II | 2026-01-01 | Aktuelles |
@@ -325,6 +336,8 @@ scripts
 | [Fall: Jobcenter kürzt Miete — kein schlüssiges Konzept](./04_FALLBEISPIELE/SGB_II/2026-02-27_KdU-Widerspruch-Angemessenheit.md) | SGB II | 2026-02-27 | Fallbeispiel |
 | [Fallbeispiel: Sanktionswiderspruch — Anhörungsfehler + psychische Erkrankung](./04_FALLBEISPIELE/SGB_II/2026-02-27_Sanktion-Widerspruch-BVerfG.md) | Sanktion Widerspruch | 2026-02-27 | Fallbeispiel |
 | [Fallbeispiele SGB II — Случаи по Bürgergeld](./04_FALLBEISPIELE/SGB_II/README.md) | — | — | — |
+| [Fallbeispiel: GdB-Neufeststellung — Verschlimmerung abgelehnt](./04_FALLBEISPIELE/SGB_IX/2026-02-27_GdB-Neufeststellung-Widerspruch.md) | GdB-Neufeststellung — Verschlimmerung abgelehnt, Widerspruch erfolgreich | 2026-02-27 | Fallbeispiel |
+| [Fallbeispiele SGB IX — Случаи по Schwerbehinderung und Eingliederungshilfe](./04_FALLBEISPIELE/SGB_IX/README.md) | — | — | — |
 | [Fallbeispiel: Pflegegrad-Widerspruch — Begutachtung angefochten](./04_FALLBEISPIELE/SGB_XI/2026-02-27_Pflegegrad-Widerspruch-Erhöhung.md) | Pflegegrad Widerspruch | 2026-02-27 | Fallbeispiel |
 | [Fallbeispiele SGB XI — Pflege](./04_FALLBEISPIELE/SGB_XI/README.md) | — | — | — |
 | [Fall: Grundsicherung abgelehnt — Schonvermögen verkannt](./04_FALLBEISPIELE/SGB_XII/2026-02-27_Grundsicherung-Vermoegensfreibetrag.md) | SGB XII | 2026-02-27 | Fallbeispiel |

@@ -7,6 +7,28 @@
 
 ---
 
+## 2026-02-27 — Session 12 (Rechtsänderungen 2025/2026, EM-Rente, ambulante Pflege, GdB-Fallbeispiel)
+
+### Neu erstellt
+
+**03_AKTUELLES:**
+- `2025/Aenderungen-2025.md` — Regelsatz 2025, Mindestlohn 12,82 €, GKV-Zusatzbeiträge +2,5%, Pflegegeld +4,5%, DRV-BBG Ost=West, AsylbLG + Bezahlkarte, Koalitionswechsel
+- `2026/Aenderungen-2026.md` — Planung Neue Grundsicherung, Mindestlohn 13 €, Pflegereform, Syrien-Widerruf BAMF, Stichtage 2026; Hinweis: aktuell prüfen!
+
+**01_SOZIALRECHT:**
+- `09_Rentenrecht/EM-Rente-Verfahren.md` — Voraussetzungen § 43 SGB VI, Höhe + Dauer, Widerspruch, Klage, Nahtlosigkeit § 145, befristete Rente, Zusammentreffen mit SGB II/XII
+- `05_SGB_XI_Pflege/Pflegegrad-Leistungen-Ambulant.md` — Pflegegeld §37, Sachleistung §36, Kombinationsleistung §38, Verhinderungspflege §39, Kurzzeitpflege §42, Tagespflege §41, Entlastungsbetrag §45b, Pflegehilfsmittel, soziale Absicherung Pflegender
+
+**04_FALLBEISPIELE:**
+- `SGB_IX/README.md` — neues Verzeichnis für SGB IX Fälle
+- `SGB_IX/2026-02-27_GdB-Neufeststellung-Widerspruch.md` — Herr K. (54 J.), GdB 40→50 + Merkzeichen G, Polyneuropathie + Depression nicht bewertet, VMG-Analyse, VdK-Widerspruch, Stattgabe
+- `README.md` — SGB IX + SGB XI in Navigation ergänzt
+
+### Statistik
+137 Dateien gesamt, 73 Inhaltsdokumente (vorher 68), 11 Fallbeispiele, 48 Kommentare
+
+---
+
 ## 2026-02-27 — Session 11 (Ausländerrecht-Urteile, SGB III, Institutionen, Literatur, Formulare, § 35a-Fallbeispiel)
 
 ### Neu erstellt

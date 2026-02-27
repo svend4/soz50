@@ -11,6 +11,8 @@
 | Папка | Закон |
 |-------|-------|
 | [SGB_II/](./SGB_II/) | Случаи по Bürgergeld |
+| [SGB_IX/](./SGB_IX/) | Случаи по Schwerbehinderung (GdB, EGH) |
+| [SGB_XI/](./SGB_XI/) | Случаи по Pflege |
 | [SGB_XII/](./SGB_XII/) | Случаи по Sozialhilfe |
 | [Jugendhilfe/](./Jugendhilfe/) | Случаи по SGB VIII |
 | [Auslaenderrecht/](./Auslaenderrecht/) | Случаи по праву иностранцев |
