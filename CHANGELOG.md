@@ -7,6 +7,25 @@
 
 ---
 
+## 2026-02-27 — Session 8 (Wohnungslosigkeit, Asylverfahren, Zielgruppen, Behörden, Beratung)
+
+### Neu erstellt
+
+**01_SOZIALRECHT:**
+- `07_Wohnen_Unterkunft/Wohnungslosigkeit-Hilfen.md` — § 67 SGB XII, § 22 Abs. 8 SGB II, ordnungsrechtlich, Housing First, Mietrecht
+- `06_Auslaenderrecht/Asylrecht/Asylverfahren-Ablauf.md` — 7 Phasen, Dublin, Anhörung, Entscheidungsoptionen, Klage, Syrien-Widerruf 2026
+
+**02_SOZIALARBEIT:**
+- `Gefluechtete/Beratung-Gefluechtete.md` — Dolmetscher, Trauma, Arbeitsmarktzugang, Familiennachzug
+- `Wohnungslose/Hilfen-im-Ueberblick.md` — Phasen, Sofortmaßnahmen, Housing First, Sucht, Streetwork
+- `Senioren/Hilfen-im-Ueberblick.md` — Grundsicherung im Alter (5 Irrtümer!), Pflege, Wohnen, Vorsorge
+- `03_Beratung/Beratungsgespraech.md` — Rogers-Grundhaltungen, Gesprächsphasen, MI, Case Management, Krisenintervention
+
+**05_RESSOURCEN:**
+- `Behoerden/Wichtige-Behoerden.md` — alle Träger mit Kontakt, Bürgertelefone, Verbände
+
+---
+
 ## 2026-02-27 — Session 7 (SGB VIII, SGB XI, Rentenrecht, Aufenthaltsrecht, Zielgruppen)
 
 ### Neu erstellt
