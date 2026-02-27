@@ -1,6 +1,6 @@
 # INDEX — Полный индекс документов
 
-> Автоматически сгенерировано: 2026-02-27 16:01
+> Автоматически сгенерировано: 2026-02-27 16:24
 
 [← Главная](./README.md)
 
@@ -45,16 +45,19 @@
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/Widerspruch-Musterbrief.md
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Eingliederungshilfe
+01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Eingliederungshilfe/EGH-Praxis.md
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Eingliederungshilfe/README.md
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Grundsicherung
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Grundsicherung/Grundsicherung-im-Alter-Praxis.md
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Grundsicherung/README.md
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Hilfe_zum_Lebensunterhalt
+01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Hilfe_zum_Lebensunterhalt/HzL-Grundlagen.md
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Hilfe_zum_Lebensunterhalt/README.md
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/README.md
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/SGB-XII-Einkommensanrechnung.md
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Urteile
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Urteile/README.md
+01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Urteile/SGB-XII-Urteile.md
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Hilfen_zur_Erziehung
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Hilfen_zur_Erziehung/HzE-Anspruch.md
@@ -68,6 +71,7 @@
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Unterhaltsvorschuss/Unterhaltsvorschuss.md
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Urteile
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Urteile/README.md
+01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Urteile/SGB-VIII-Urteile.md
 01_SOZIALRECHT/05_SGB_XI_Pflege
 01_SOZIALRECHT/05_SGB_XI_Pflege/Pflegegrad-Berechnung.md
 01_SOZIALRECHT/05_SGB_XI_Pflege/README.md
@@ -94,12 +98,14 @@
 01_SOZIALRECHT/09_Rentenrecht/README.md
 01_SOZIALRECHT/09_Rentenrecht/Rentenarten-Uebersicht.md
 01_SOZIALRECHT/10_Arbeitsrecht
+01_SOZIALRECHT/10_Arbeitsrecht/Kuendigung-Abmahnung.md
 01_SOZIALRECHT/10_Arbeitsrecht/README.md
 01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung
 01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung/README.md
 01_SOZIALRECHT/README.md
 02_SOZIALARBEIT
 02_SOZIALARBEIT/01_Methoden
+02_SOZIALARBEIT/01_Methoden/Methoden-Uebersicht.md
 02_SOZIALARBEIT/01_Methoden/README.md
 02_SOZIALARBEIT/02_Zielgruppen
 02_SOZIALARBEIT/02_Zielgruppen/Familien
@@ -128,6 +134,7 @@
 02_SOZIALARBEIT/03_Beratung/Beratungsgespraech.md
 02_SOZIALARBEIT/03_Beratung/README.md
 02_SOZIALARBEIT/04_Dokumentation
+02_SOZIALARBEIT/04_Dokumentation/Dokumentation-Praxis.md
 02_SOZIALARBEIT/04_Dokumentation/README.md
 02_SOZIALARBEIT/05_Institutionen
 02_SOZIALARBEIT/05_Institutionen/README.md
@@ -143,6 +150,7 @@
 03_AKTUELLES/2025/Urteile/2025_Wichtige-Sozialgerichtsurteile.md
 03_AKTUELLES/2025/Urteile/README.md
 03_AKTUELLES/2025/Verwaltung
+03_AKTUELLES/2025/Verwaltung/2025_Verwaltungsaenderungen.md
 03_AKTUELLES/2025/Verwaltung/README.md
 03_AKTUELLES/2026
 03_AKTUELLES/2026/Februar
@@ -222,13 +230,16 @@ scripts
 | [Wichtige BSG-Urteile zu SGB II / Bürgergeld](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Urteile/Wichtige-BSG-Urteile.md) | BSG-Urteile SGB II | 2026-02-27 | Kommentar |
 | [Widerspruch & Klage — Оспаривание решений Jobcenter](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/README.md) | — | — | — |
 | [Musterbrief: Widerspruch gegen Bescheid des Jobcenters](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/Widerspruch-Musterbrief.md) | SGB II | 2026-02-27 | Vorlage |
+| [Eingliederungshilfe — Praxis und Antragstellung](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Eingliederungshilfe/EGH-Praxis.md) | Eingliederungshilfe — Praxis und Antragstellung | 2026-02-27 | Kommentar |
 | [Eingliederungshilfe — SGB IX (ab 2020)](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Eingliederungshilfe/README.md) | — | — | — |
 | [Grundsicherung im Alter und bei Erwerbsminderung — Praxisleitfaden](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Grundsicherung/Grundsicherung-im-Alter-Praxis.md) | Grundsicherung im Alter und bei Erwerbsminderung | 2026-02-27 | Kommentar |
 | [Grundsicherung im Alter und bei Erwerbsminderung — §§ 41–46b SGB XII](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Grundsicherung/README.md) | — | — | — |
+| [Hilfe zum Lebensunterhalt — §§ 27–40 SGB XII](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Hilfe_zum_Lebensunterhalt/HzL-Grundlagen.md) | Hilfe zum Lebensunterhalt — §§ 27–40 SGB XII | 2026-02-27 | Kommentar |
 | [Hilfe zum Lebensunterhalt — §§ 27–40 SGB XII](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Hilfe_zum_Lebensunterhalt/README.md) | — | — | — |
 | [SGB XII — Sozialhilfe](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/README.md) | — | — | — |
 | [Einkommens- und Vermögensanrechnung nach SGB XII](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/SGB-XII-Einkommensanrechnung.md) | SGB XII Einkommensanrechnung | 2026-02-27 | Kommentar |
 | [Urteile SGB XII — Судебные решения](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Urteile/README.md) | — | — | — |
+| [Wichtige Urteile im SGB XII / Sozialhilferecht](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Urteile/SGB-XII-Urteile.md) | Wichtige Urteile im SGB XII / Sozialhilferecht | 2026-02-27 | Kommentar |
 | [Hilfen zur Erziehung (HzE) — Anspruch, Hilfeplan, Leistungsarten](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Hilfen_zur_Erziehung/HzE-Anspruch.md) | Hilfen zur Erziehung SGB VIII | 2026-02-27 | Kommentar |
 | [Hilfen zur Erziehung — §§ 27–35 SGB VIII](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Hilfen_zur_Erziehung/README.md) | — | — | — |
 | [Inobhutnahme nach § 42 SGB VIII](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Inobhutnahme/Inobhutnahme.md) | Inobhutnahme § 42 SGB VIII | 2026-02-27 | Kommentar |
@@ -237,6 +248,7 @@ scripts
 | [Unterhaltsvorschuss — UhVorschG](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Unterhaltsvorschuss/README.md) | — | — | — |
 | [Unterhaltsvorschuss — Leitfaden](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Unterhaltsvorschuss/Unterhaltsvorschuss.md) | Unterhaltsvorschuss | 2026-02-27 | Kommentar |
 | [Urteile SGB VIII — Судебные решения по Jugendhilfe](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Urteile/README.md) | — | — | — |
+| [Wichtige Urteile im SGB VIII / Jugendhilferecht](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Urteile/SGB-VIII-Urteile.md) | Wichtige Urteile im SGB VIII / Jugendhilferecht | 2026-02-27 | Kommentar |
 | [Pflegegrad — Berechnung, Begutachtung, Widerspruch](./01_SOZIALRECHT/05_SGB_XI_Pflege/Pflegegrad-Berechnung.md) | Pflegegrad Begutachtung und Berechnung | 2026-02-27 | Kommentar |
 | [SGB XI — Soziale Pflegeversicherung](./01_SOZIALRECHT/05_SGB_XI_Pflege/README.md) | — | — | — |
 | [AsylbLG — Leistungen im Detail](./01_SOZIALRECHT/06_Auslaenderrecht/AsylbLG/Leistungen-Uebersicht.md) | AsylbLG Leistungen | 2026-02-27 | Kommentar |
@@ -253,9 +265,11 @@ scripts
 | [Krankenversicherung — Медицинское страхование](./01_SOZIALRECHT/08_Krankenversicherung/README.md) | — | — | — |
 | [Rentenrecht — Пенсионное право](./01_SOZIALRECHT/09_Rentenrecht/README.md) | — | — | — |
 | [Rentenarten — Überblick SGB VI](./01_SOZIALRECHT/09_Rentenrecht/Rentenarten-Uebersicht.md) | Rentenarten Übersicht | 2026-02-27 | Kommentar |
+| [Kündigung und Abmahnung — Arbeitsrechtliche Praxis](./01_SOZIALRECHT/10_Arbeitsrecht/Kuendigung-Abmahnung.md) | Kündigung und Abmahnung im Arbeitsrecht | 2026-02-27 | Kommentar |
 | [Arbeitsrecht — Трудовое право](./01_SOZIALRECHT/10_Arbeitsrecht/README.md) | — | — | — |
 | [SGB III — Arbeitsförderung (ALG I, Berufsberatung, Weiterbildung)](./01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung/README.md) | — | — | — |
 | [01 Sozialrecht — Социальное право](./01_SOZIALRECHT/README.md) | — | — | — |
+| [Methoden der Sozialen Arbeit — Überblick](./02_SOZIALARBEIT/01_Methoden/Methoden-Uebersicht.md) | Methoden der Sozialen Arbeit — Überblick | 2026-02-27 | Kommentar |
 | [Methoden der Sozialarbeit — Методы социальной работы](./02_SOZIALARBEIT/01_Methoden/README.md) | — | — | — |
 | [Zielgruppe Familien — Hilfen im Überblick](./02_SOZIALARBEIT/02_Zielgruppen/Familien/Hilfen-im-Ueberblick.md) | Hilfen für Familien | 2026-02-27 | Kommentar |
 | [Familien — Семьи в трудной жизненной ситуации](./02_SOZIALARBEIT/02_Zielgruppen/Familien/README.md) | — | — | — |
@@ -274,6 +288,7 @@ scripts
 | [Wohnungslose — Люди без жилья](./02_SOZIALARBEIT/02_Zielgruppen/Wohnungslose/README.md) | — | — | — |
 | [Beratungsgespräch — Methoden und Grundsätze](./02_SOZIALARBEIT/03_Beratung/Beratungsgespraech.md) | Beratungsgespräch in der Sozialarbeit | 2026-02-27 | Kommentar |
 | [Beratung in der Sozialarbeit — Консультирование](./02_SOZIALARBEIT/03_Beratung/README.md) | — | — | — |
+| [Dokumentation in der Sozialen Arbeit](./02_SOZIALARBEIT/04_Dokumentation/Dokumentation-Praxis.md) | Dokumentation in der Sozialen Arbeit | 2026-02-27 | Kommentar |
 | [Dokumentation in der Sozialarbeit — Документирование](./02_SOZIALARBEIT/04_Dokumentation/README.md) | — | — | — |
 | [Institutionen & Träger — Ведомства и организации](./02_SOZIALARBEIT/05_Institutionen/README.md) | — | — | — |
 | [02 Sozialarbeit — Социальная работа](./02_SOZIALARBEIT/README.md) | — | — | — |
@@ -283,6 +298,7 @@ scripts
 | [Aktuelles 2025](./03_AKTUELLES/2025/README.md) | — | — | — |
 | [Wichtige Sozialgerichtsurteile 2025](./03_AKTUELLES/2025/Urteile/2025_Wichtige-Sozialgerichtsurteile.md) | Sozialgerichtsurteile 2025 | 2025-12-31 | Aktuelles |
 | [Wichtige Urteile 2025](./03_AKTUELLES/2025/Urteile/README.md) | — | — | — |
+| [Verwaltungsänderungen 2025 — Sozialrecht und Behördenpraxis](./03_AKTUELLES/2025/Verwaltung/2025_Verwaltungsaenderungen.md) | Verwaltungsänderungen 2025 — Sozialrecht und Behördenpraxis | 2026-02-27 | Aktuelles |
 | [Verwaltungsänderungen 2025](./03_AKTUELLES/2025/Verwaltung/README.md) | — | — | — |
 | [Aktuell: Sozialrecht im Februar 2026](./03_AKTUELLES/2026/Februar/2026-02-27_Aktuell-Sozialrecht-Februar.md) | Sozialrecht Februar 2026 | 2026-02-27 | Aktuelles |
 | [Februar 2026](./03_AKTUELLES/2026/Februar/README.md) | — | — | — |

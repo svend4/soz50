@@ -7,6 +7,26 @@
 
 ---
 
+## 2026-02-27 — Session 10 (EGH, HzL, Arbeitsrecht, Methoden, Dokumentation, Urteile, 2025-Änderungen)
+
+### Neu erstellt
+
+**01_SOZIALRECHT:**
+- `03_SGB_XII_Sozialhilfe/Eingliederungshilfe/EGH-Praxis.md` — Antragstellung, ICF-Bedarfsermittlung, Gesamtplan § 119 SGB IX, häufige Widerspruchsgründe, Übergang § 35a → SGB IX, Zusammenspiel GKV/Pflege
+- `03_SGB_XII_Sozialhilfe/Hilfe_zum_Lebensunterhalt/HzL-Grundlagen.md` — Typische Fälle (Krankengeld-Ende, stationär, Haft-Entlassung), Berechnungsschema, Einmalleistungen, Vermögen, Nahtlosigkeit § 145 SGB III
+- `03_SGB_XII_Sozialhilfe/Urteile/SGB-XII-Urteile.md` — BVerfG Existenzminimum, BSG EU-Bürger, BSG Heimkosten, BVerwG § 23 SGB XII, BVerfG AsylbLG 2012
+- `04_SGB_VIII_Jugendhilfe/Urteile/SGB-VIII-Urteile.md` — BVerwG subjektives Recht HzE, § 35a Schulbegleitung, Inobhutnahme-Rechtsnatur, UhV + häusliche Gewalt, Datenschutz § 65 SGB VIII
+- `10_Arbeitsrecht/Kuendigung-Abmahnung.md` — KSchG Voraussetzungen, personenbedingt/verhaltensbedingt/betriebsbedingt, Abmahnungsrecht, Aufhebungsvertrag + Sperrzeit, Kündigungsschutzklage 3-Wochen-Frist, Zeugnis
+
+**02_SOZIALARBEIT:**
+- `01_Methoden/Methoden-Uebersicht.md` — Einzelfallhilfe, Gruppenarbeit, Gemeinwesenarbeit, Ressourcenorientierung, Systemische Perspektive, Thiersch Lebenswelt, Empowerment, Case Management, MI (OARS), Trauma-informiert, Krisenintervention
+- `04_Dokumentation/Dokumentation-Praxis.md` — Professionelle Begründung, DSGVO + SGB X Sozialgeheimnis, Einwilligung, Akteneinsicht § 25 SGB X, Beobachtung vs. Interpretation, Pflichtdokumente, Aufbewahrungsfristen, digitaler Datenschutz
+
+**03_AKTUELLES:**
+- `2025/Verwaltung/2025_Verwaltungsaenderungen.md` — Regelbedarfe 2025, Digitalisierung OZG, Mindestlohn 12,82 €, Kindergeld 255 €, Asyl-Widerruf Syrien, Bezahlkarte, GKV-Beiträge, Pflegeleistungen 2025, wichtige Gerichtsverfahren 2025
+
+---
+
 ## 2026-02-27 — Session 9 (Grundsicherung, Inobhutnahme, UhV, GKV, Kinder, Sucht, Ressourcen)
 
 ### Neu erstellt
