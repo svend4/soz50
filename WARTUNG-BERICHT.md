@@ -1,6 +1,6 @@
 # Wartungsbericht / Отчёт об обслуживании
 
-> Автоматически сгенерирован: 2026-02-27 15:25
+> Автоматически сгенерирован: 2026-02-27 16:01
 
 [← Главная](./README.md)
 
@@ -16,12 +16,7 @@
 
 | Файл | Сломанная ссылка |
 |------|----------------|
-| `01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/README.md` | `./widerspruch-vorlage.md` — файл не найден |
-| `01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/README.md` | `./einstweiliger-rechtsschutz.md` — файл не найден |
-| `01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/README.md` | `./beratungsstellen.md` — файл не найден |
-| `02_SOZIALARBEIT/02_Zielgruppen/Gefluechtete/README.md` | `./erstberatung-checkliste.md` — файл не найден |
-| `02_SOZIALARBEIT/02_Zielgruppen/Gefluechtete/README.md` | `./sprachbarrieren.md` — файл не найден |
-| `02_SOZIALARBEIT/02_Zielgruppen/Gefluechtete/README.md` | `./traumasensibel.md` — файл не найден |
+| — | Все ссылки корректны ✅ |
 
 ## 3. Документы без ссылки в README
 
@@ -65,9 +60,9 @@
 
 | Показатель | Значение |
 |-----------|---------|
-| Всего документов (.md) | 51 |
+| Всего документов (.md) | 57 |
 | Всего папок | 63 |
-| Статус: aktuell | 18 |
+| Статус: aktuell | 24 |
 | Статус: veraltet | 0 |
 | Статус: in-bearbeitung | 0 |
 
@@ -77,10 +72,10 @@
 
 | | Количество |
 |-|-----------|
-| 🔴 Ошибки (Fehler) | 6 |
+| 🔴 Ошибки (Fehler) | 0 |
 | 🟡 Предупреждения (Warnungen) | 29 |
 
 ---
 
-*Отчёт сгенерирован: 2026-02-27 15:25*
+*Отчёт сгенерирован: 2026-02-27 16:01*
 *Скрипт: `scripts/wartung.sh`*
