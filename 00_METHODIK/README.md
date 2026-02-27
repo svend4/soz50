@@ -74,5 +74,8 @@ status: aktuell | veraltet | in-bearbeitung
 - [Шаблон карточки источника (для журналистов/правозащитников)](./vorlagen/vorlage-quellenkarteikarte.md)
 - [Шаблон документирования нарушения прав](./vorlagen/vorlage-rechtsverletzung.md)
 
+### Анализы
+- [Анализ форматов коммуникации и платформ](./analyse-kommunikationsformate.md) — сравнение форумов, вики, чатов, Git, RAG и др.
+
 ### Справочники
 - [Контролируемый словарь тегов (Schlagworte)](./schlagworte-liste.md)
