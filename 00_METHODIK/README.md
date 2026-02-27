@@ -67,3 +67,4 @@ status: aktuell | veraltet | in-bearbeitung
 - [Шаблон случая из практики](./vorlagen/vorlage-fallbeispiel.md)
 - [Как добавить документ](./anleitungen/wie-dokument-hinzufuegen.md)
 - [Как добавить случай](./anleitungen/wie-fallbeispiel-hinzufuegen.md)
+- [Методы работы с большими объёмами информации](./anleitungen/methoden-grosse-datenmengen.md)
