@@ -7,6 +7,23 @@
 
 ---
 
+## 2026-02-27 — Session 7 (SGB VIII, SGB XI, Rentenrecht, Aufenthaltsrecht, Zielgruppen)
+
+### Neu erstellt
+
+**01_SOZIALRECHT:**
+- `04_SGB_VIII_Jugendhilfe/Hilfen_zur_Erziehung/HzE-Anspruch.md` — § 27 SGB VIII, SPFH § 31, Hilfeplan § 36, § 35a seelische Behinderung, Kostenbeteiligung, Zuständigkeit
+- `05_SGB_XI_Pflege/Pflegegrad-Berechnung.md` — NBA 6 Module, Gewichtung, Berechnungsbeispiel, typische MD-Fehler, Widerspruchsstrategie, Leistungsbeträge 2025
+- `02_SGB_II_Buergergeld/Antraege/Antragstellung-Leitfaden.md` — Erstantrag, Unterlagen-Checkliste, WBA, einmalige Leistungen, häufige Fehler
+- `06_Auslaenderrecht/Aufenthaltsrecht/Aufenthaltstitel-Sozialrecht.md` — Titel→Leistungstabelle, GFK-Flüchtlinge, Duldung, EU-Freizügigkeit, Fiktionsbescheinigung
+- `09_Rentenrecht/Rentenarten-Uebersicht.md` — Altersrente, EM-Rente (Zurechnungszeit!), Witwenrente, Waisenrente, Grundrente
+
+**02_SOZIALARBEIT/02_Zielgruppen:**
+- `Familien/Hilfen-im-Ueberblick.md` — Kindergeld, KiZ, UhV, Frühe Hilfen, HzE, häusliche Gewalt
+- `Menschen_mit_Behinderung/Leistungen-Uebersicht.md` — GdB/Merkzeichen, EGH SGB IX, Assistenz, Persönliches Budget, Wohnen, Schwerbehindertenrecht
+
+---
+
 ## 2026-02-27 — Session 6 (Glossar, SGB III, AsylbLG vertieft, Urteile, Aktuelles)
 
 ### Neu erstellt

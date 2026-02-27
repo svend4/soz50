@@ -1,6 +1,6 @@
 # INDEX — Полный индекс документов
 
-> Автоматически сгенерировано: 2026-02-27 15:07
+> Автоматически сгенерировано: 2026-02-27 15:30
 
 [← Главная](./README.md)
 
@@ -26,6 +26,7 @@
 01_SOZIALRECHT/01_Grundlagen/Zustaendigkeiten.md
 01_SOZIALRECHT/02_SGB_II_Buergergeld
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Antraege
+01_SOZIALRECHT/02_SGB_II_Buergergeld/Antraege/Antragstellung-Leitfaden.md
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Antraege/README.md
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/Einkommensanrechnung.md
@@ -55,6 +56,7 @@
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Urteile/README.md
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Hilfen_zur_Erziehung
+01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Hilfen_zur_Erziehung/HzE-Anspruch.md
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Hilfen_zur_Erziehung/README.md
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Inobhutnahme
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Inobhutnahme/README.md
@@ -64,6 +66,7 @@
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Urteile
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Urteile/README.md
 01_SOZIALRECHT/05_SGB_XI_Pflege
+01_SOZIALRECHT/05_SGB_XI_Pflege/Pflegegrad-Berechnung.md
 01_SOZIALRECHT/05_SGB_XI_Pflege/README.md
 01_SOZIALRECHT/06_Auslaenderrecht
 01_SOZIALRECHT/06_Auslaenderrecht/AsylbLG
@@ -72,6 +75,7 @@
 01_SOZIALRECHT/06_Auslaenderrecht/Asylrecht
 01_SOZIALRECHT/06_Auslaenderrecht/Asylrecht/README.md
 01_SOZIALRECHT/06_Auslaenderrecht/Aufenthaltsrecht
+01_SOZIALRECHT/06_Auslaenderrecht/Aufenthaltsrecht/Aufenthaltstitel-Sozialrecht.md
 01_SOZIALRECHT/06_Auslaenderrecht/Aufenthaltsrecht/README.md
 01_SOZIALRECHT/06_Auslaenderrecht/README.md
 01_SOZIALRECHT/06_Auslaenderrecht/Urteile
@@ -82,6 +86,7 @@
 01_SOZIALRECHT/08_Krankenversicherung/README.md
 01_SOZIALRECHT/09_Rentenrecht
 01_SOZIALRECHT/09_Rentenrecht/README.md
+01_SOZIALRECHT/09_Rentenrecht/Rentenarten-Uebersicht.md
 01_SOZIALRECHT/10_Arbeitsrecht
 01_SOZIALRECHT/10_Arbeitsrecht/README.md
 01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung
@@ -92,12 +97,14 @@
 02_SOZIALARBEIT/01_Methoden/README.md
 02_SOZIALARBEIT/02_Zielgruppen
 02_SOZIALARBEIT/02_Zielgruppen/Familien
+02_SOZIALARBEIT/02_Zielgruppen/Familien/Hilfen-im-Ueberblick.md
 02_SOZIALARBEIT/02_Zielgruppen/Familien/README.md
 02_SOZIALARBEIT/02_Zielgruppen/Gefluechtete
 02_SOZIALARBEIT/02_Zielgruppen/Gefluechtete/README.md
 02_SOZIALARBEIT/02_Zielgruppen/Kinder_Jugendliche
 02_SOZIALARBEIT/02_Zielgruppen/Kinder_Jugendliche/README.md
 02_SOZIALARBEIT/02_Zielgruppen/Menschen_mit_Behinderung
+02_SOZIALARBEIT/02_Zielgruppen/Menschen_mit_Behinderung/Leistungen-Uebersicht.md
 02_SOZIALARBEIT/02_Zielgruppen/Menschen_mit_Behinderung/README.md
 02_SOZIALARBEIT/02_Zielgruppen/README.md
 02_SOZIALARBEIT/02_Zielgruppen/Senioren
@@ -188,6 +195,7 @@ scripts
 | [Grundlagen des Sozialrechts — Основы социального права](./01_SOZIALRECHT/01_Grundlagen/README.md) | — | — | — |
 | [SGB I — Allgemeiner Teil des Sozialgesetzbuches](./01_SOZIALRECHT/01_Grundlagen/SGB-I-Allgemeiner-Teil.md) | SGB I | 2026-02-27 | Kommentar |
 | [Zuständigkeiten im Sozialrecht — Wer ist wofür zuständig?](./01_SOZIALRECHT/01_Grundlagen/Zustaendigkeiten.md) | Zuständigkeiten Sozialrecht | 2026-02-27 | Kommentar |
+| [Antragstellung SGB II — Schritt-für-Schritt-Leitfaden](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Antraege/Antragstellung-Leitfaden.md) | SGB II Antragstellung | 2026-02-27 | Kommentar |
 | [Anträge beim Jobcenter — Заявления в Jobcenter](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Antraege/README.md) | — | — | — |
 | [Einkommensanrechnung — §§ 11–11b SGB II](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/Einkommensanrechnung.md) | Einkommensanrechnung SGB II | 2026-02-27 | Kommentar |
 | [KdU — Kosten der Unterkunft und Heizung (§ 22 SGB II)](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/KdU-Angemessenheit.md) | KdU Angemessenheit | 2026-02-27 | Kommentar |
@@ -206,28 +214,34 @@ scripts
 | [SGB XII — Sozialhilfe](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/README.md) | — | — | — |
 | [Einkommens- und Vermögensanrechnung nach SGB XII](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/SGB-XII-Einkommensanrechnung.md) | SGB XII Einkommensanrechnung | 2026-02-27 | Kommentar |
 | [Urteile SGB XII — Судебные решения](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Urteile/README.md) | — | — | — |
+| [Hilfen zur Erziehung (HzE) — Anspruch, Hilfeplan, Leistungsarten](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Hilfen_zur_Erziehung/HzE-Anspruch.md) | Hilfen zur Erziehung SGB VIII | 2026-02-27 | Kommentar |
 | [Hilfen zur Erziehung — §§ 27–35 SGB VIII](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Hilfen_zur_Erziehung/README.md) | — | — | — |
 | [Inobhutnahme — § 42 SGB VIII](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Inobhutnahme/README.md) | — | — | — |
 | [SGB VIII — Kinder- und Jugendhilfe](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/README.md) | — | — | — |
 | [Unterhaltsvorschuss — UhVorschG](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Unterhaltsvorschuss/README.md) | — | — | — |
 | [Urteile SGB VIII — Судебные решения по Jugendhilfe](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Urteile/README.md) | — | — | — |
+| [Pflegegrad — Berechnung, Begutachtung, Widerspruch](./01_SOZIALRECHT/05_SGB_XI_Pflege/Pflegegrad-Berechnung.md) | Pflegegrad Begutachtung und Berechnung | 2026-02-27 | Kommentar |
 | [SGB XI — Soziale Pflegeversicherung](./01_SOZIALRECHT/05_SGB_XI_Pflege/README.md) | — | — | — |
 | [AsylbLG — Leistungen im Detail](./01_SOZIALRECHT/06_Auslaenderrecht/AsylbLG/Leistungen-Uebersicht.md) | AsylbLG Leistungen | 2026-02-27 | Kommentar |
 | [AsylbLG — Asylbewerberleistungsgesetz](./01_SOZIALRECHT/06_Auslaenderrecht/AsylbLG/README.md) | — | — | — |
 | [Asylrecht — Право на убежище](./01_SOZIALRECHT/06_Auslaenderrecht/Asylrecht/README.md) | — | — | — |
+| [Aufenthaltstitel und Zugangsberechtigung zu Sozialleistungen](./01_SOZIALRECHT/06_Auslaenderrecht/Aufenthaltsrecht/Aufenthaltstitel-Sozialrecht.md) | Aufenthaltstitel und Sozialleistungsrecht | 2026-02-27 | Kommentar |
 | [Aufenthaltsrecht — Право пребывания](./01_SOZIALRECHT/06_Auslaenderrecht/Aufenthaltsrecht/README.md) | — | — | — |
 | [Ausländerrecht & Sozialleistungen — Право иностранцев и социальные выплаты](./01_SOZIALRECHT/06_Auslaenderrecht/README.md) | — | — | — |
 | [Urteile Ausländerrecht — Судебные решения](./01_SOZIALRECHT/06_Auslaenderrecht/Urteile/README.md) | — | — | — |
 | [Wohnen & Unterkunft — Жильё и размещение](./01_SOZIALRECHT/07_Wohnen_Unterkunft/README.md) | — | — | — |
 | [Krankenversicherung — Медицинское страхование](./01_SOZIALRECHT/08_Krankenversicherung/README.md) | — | — | — |
 | [Rentenrecht — Пенсионное право](./01_SOZIALRECHT/09_Rentenrecht/README.md) | — | — | — |
+| [Rentenarten — Überblick SGB VI](./01_SOZIALRECHT/09_Rentenrecht/Rentenarten-Uebersicht.md) | Rentenarten Übersicht | 2026-02-27 | Kommentar |
 | [Arbeitsrecht — Трудовое право](./01_SOZIALRECHT/10_Arbeitsrecht/README.md) | — | — | — |
 | [SGB III — Arbeitsförderung (ALG I, Berufsberatung, Weiterbildung)](./01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung/README.md) | — | — | — |
 | [01 Sozialrecht — Социальное право](./01_SOZIALRECHT/README.md) | — | — | — |
 | [Methoden der Sozialarbeit — Методы социальной работы](./02_SOZIALARBEIT/01_Methoden/README.md) | — | — | — |
+| [Zielgruppe Familien — Hilfen im Überblick](./02_SOZIALARBEIT/02_Zielgruppen/Familien/Hilfen-im-Ueberblick.md) | Hilfen für Familien | 2026-02-27 | Kommentar |
 | [Familien — Семьи в трудной жизненной ситуации](./02_SOZIALARBEIT/02_Zielgruppen/Familien/README.md) | — | — | — |
 | [Geflüchtete — Беженцы и мигранты](./02_SOZIALARBEIT/02_Zielgruppen/Gefluechtete/README.md) | — | — | — |
 | [Kinder und Jugendliche — Дети и молодёжь](./02_SOZIALARBEIT/02_Zielgruppen/Kinder_Jugendliche/README.md) | — | — | — |
+| [Zielgruppe Menschen mit Behinderung — Leistungsübersicht](./02_SOZIALARBEIT/02_Zielgruppen/Menschen_mit_Behinderung/Leistungen-Uebersicht.md) | Menschen mit Behinderung — Leistungsübersicht | 2026-02-27 | Kommentar |
 | [Menschen mit Behinderung — Люди с инвалидностью](./02_SOZIALARBEIT/02_Zielgruppen/Menschen_mit_Behinderung/README.md) | — | — | — |
 | [Zielgruppen der Sozialen Arbeit — Übersicht](./02_SOZIALARBEIT/02_Zielgruppen/README.md) | — | — | — |
 | [Senioren — Пожилые люди](./02_SOZIALARBEIT/02_Zielgruppen/Senioren/README.md) | — | — | — |
