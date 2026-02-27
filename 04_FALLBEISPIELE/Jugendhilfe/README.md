@@ -9,6 +9,7 @@
 | Файл | Тема | Datum | Итог |
 |------|------|-------|------|
 | [2026-02-27_SPFH-Antrag-abgelehnt-Widerspruch.md](./2026-02-27_SPFH-Antrag-abgelehnt-Widerspruch.md) | SPFH-Ablehnung — Widerspruch erfolgreich | 2026-02-27 | Stattgabe |
+| [2026-02-27_SGB-VIII-35a-Schulbegleitung-abgelehnt.md](./2026-02-27_SGB-VIII-35a-Schulbegleitung-abgelehnt.md) | § 35a Schulbegleitung ADHS — Widerspruch erfolgreich | 2026-02-27 | Stattgabe |
 
 ---
 

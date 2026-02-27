@@ -7,6 +7,27 @@
 
 ---
 
+## 2026-02-27 — Session 11 (Ausländerrecht-Urteile, SGB III, Institutionen, Literatur, Formulare, § 35a-Fallbeispiel)
+
+### Neu erstellt
+
+**01_SOZIALRECHT:**
+- `06_Auslaenderrecht/Urteile/Auslaenderrecht-Urteile.md` — EuGH Alimanovic + Dublin-Urteile, BVerwG Asyl + Widerruf, BSG EU-Bürger-Ausschluss, EGMR M.S.S.
+- `11_SGB_III_Arbeitsfoerderung/SGB-III-Uebersicht.md` — ALG I (Voraussetzungen, Höhe, Dauer), Sperrzeit, Vorab-Meldung § 38, Nahtlosigkeit § 145, KUG, Bildungsgutschein
+
+**02_SOZIALARBEIT:**
+- `05_Institutionen/Institutionen-Uebersicht.md` — Subsidiaritätsprinzip, öffentliche + freie Träger, 6 Wohlfahrtsverbände, Beratungsstellen (MBE, JMD, Sucht, Schulden, Frauen), Finanzierungslogik
+
+**04_FALLBEISPIELE:**
+- `Jugendhilfe/2026-02-27_SGB-VIII-35a-Schulbegleitung-abgelehnt.md` — Leon S., ADHS + LRS, § 35a Schulbegleitung abgelehnt, Widerspruch mit BVerwG 5 C 10/06, erfolgreich
+- `Jugendhilfe/README.md` — Neues Fallbeispiel ergänzt
+
+**05_RESSOURCEN:**
+- `Fachbuecher/Empfohlene-Literatur.md` — Kommentare (Beck, Nomos, Walhalla) für alle SGBs, Zeitschriften, kostenlose Online-Quellen
+- `Formulare/Formulare-Uebersicht.md` — Formlos-Grundsatz § 16 SGB I, SGB II/XII/VIII/XI/BA Formulare, Widerspruchsmuster, Vollmachten
+
+---
+
 ## 2026-02-27 — Session 10 (EGH, HzL, Arbeitsrecht, Methoden, Dokumentation, Urteile, 2025-Änderungen)
 
 ### Neu erstellt

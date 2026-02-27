@@ -1,6 +1,6 @@
 # INDEX — Полный индекс документов
 
-> Автоматически сгенерировано: 2026-02-27 16:24
+> Автоматически сгенерировано: 2026-02-27 16:43
 
 [← Главная](./README.md)
 
@@ -87,6 +87,7 @@
 01_SOZIALRECHT/06_Auslaenderrecht/Aufenthaltsrecht/README.md
 01_SOZIALRECHT/06_Auslaenderrecht/README.md
 01_SOZIALRECHT/06_Auslaenderrecht/Urteile
+01_SOZIALRECHT/06_Auslaenderrecht/Urteile/Auslaenderrecht-Urteile.md
 01_SOZIALRECHT/06_Auslaenderrecht/Urteile/README.md
 01_SOZIALRECHT/07_Wohnen_Unterkunft
 01_SOZIALRECHT/07_Wohnen_Unterkunft/README.md
@@ -102,6 +103,7 @@
 01_SOZIALRECHT/10_Arbeitsrecht/README.md
 01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung
 01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung/README.md
+01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung/SGB-III-Uebersicht.md
 01_SOZIALRECHT/README.md
 02_SOZIALARBEIT
 02_SOZIALARBEIT/01_Methoden
@@ -137,6 +139,7 @@
 02_SOZIALARBEIT/04_Dokumentation/Dokumentation-Praxis.md
 02_SOZIALARBEIT/04_Dokumentation/README.md
 02_SOZIALARBEIT/05_Institutionen
+02_SOZIALARBEIT/05_Institutionen/Institutionen-Uebersicht.md
 02_SOZIALARBEIT/05_Institutionen/README.md
 02_SOZIALARBEIT/README.md
 03_AKTUELLES
@@ -166,6 +169,7 @@
 04_FALLBEISPIELE/Auslaenderrecht/2026-02-27_AsylbLG-Psychotherapie-Paragraph6.md
 04_FALLBEISPIELE/Auslaenderrecht/README.md
 04_FALLBEISPIELE/Jugendhilfe
+04_FALLBEISPIELE/Jugendhilfe/2026-02-27_SGB-VIII-35a-Schulbegleitung-abgelehnt.md
 04_FALLBEISPIELE/Jugendhilfe/2026-02-27_SPFH-Antrag-abgelehnt-Widerspruch.md
 04_FALLBEISPIELE/Jugendhilfe/README.md
 04_FALLBEISPIELE/README.md
@@ -185,8 +189,10 @@
 05_RESSOURCEN/Behoerden/README.md
 05_RESSOURCEN/Behoerden/Wichtige-Behoerden.md
 05_RESSOURCEN/Fachbuecher
+05_RESSOURCEN/Fachbuecher/Empfohlene-Literatur.md
 05_RESSOURCEN/Fachbuecher/README.md
 05_RESSOURCEN/Formulare
+05_RESSOURCEN/Formulare/Formulare-Uebersicht.md
 05_RESSOURCEN/Formulare/README.md
 05_RESSOURCEN/Online_Datenbanken
 05_RESSOURCEN/Online_Datenbanken/README.md
@@ -258,6 +264,7 @@ scripts
 | [Aufenthaltstitel und Zugangsberechtigung zu Sozialleistungen](./01_SOZIALRECHT/06_Auslaenderrecht/Aufenthaltsrecht/Aufenthaltstitel-Sozialrecht.md) | Aufenthaltstitel und Sozialleistungsrecht | 2026-02-27 | Kommentar |
 | [Aufenthaltsrecht — Право пребывания](./01_SOZIALRECHT/06_Auslaenderrecht/Aufenthaltsrecht/README.md) | — | — | — |
 | [Ausländerrecht & Sozialleistungen — Право иностранцев и социальные выплаты](./01_SOZIALRECHT/06_Auslaenderrecht/README.md) | — | — | — |
+| [Wichtige Urteile im Ausländer- und Asylrecht](./01_SOZIALRECHT/06_Auslaenderrecht/Urteile/Auslaenderrecht-Urteile.md) | Wichtige Urteile im Ausländer- und Asylrecht | 2026-02-27 | Kommentar |
 | [Urteile Ausländerrecht — Судебные решения](./01_SOZIALRECHT/06_Auslaenderrecht/Urteile/README.md) | — | — | — |
 | [Wohnen & Unterkunft — Жильё и размещение](./01_SOZIALRECHT/07_Wohnen_Unterkunft/README.md) | — | — | — |
 | [Wohnungslosigkeit — Hilfen, Rechte, Prävention](./01_SOZIALRECHT/07_Wohnen_Unterkunft/Wohnungslosigkeit-Hilfen.md) | Wohnungslosigkeit und Wohnungssicherung | 2026-02-27 | Kommentar |
@@ -268,6 +275,7 @@ scripts
 | [Kündigung und Abmahnung — Arbeitsrechtliche Praxis](./01_SOZIALRECHT/10_Arbeitsrecht/Kuendigung-Abmahnung.md) | Kündigung und Abmahnung im Arbeitsrecht | 2026-02-27 | Kommentar |
 | [Arbeitsrecht — Трудовое право](./01_SOZIALRECHT/10_Arbeitsrecht/README.md) | — | — | — |
 | [SGB III — Arbeitsförderung (ALG I, Berufsberatung, Weiterbildung)](./01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung/README.md) | — | — | — |
+| [SGB III — Arbeitsförderung und ALG I](./01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung/SGB-III-Uebersicht.md) | SGB III — Arbeitsförderung und Arbeitslosengeld I | 2026-02-27 | Kommentar |
 | [01 Sozialrecht — Социальное право](./01_SOZIALRECHT/README.md) | — | — | — |
 | [Methoden der Sozialen Arbeit — Überblick](./02_SOZIALARBEIT/01_Methoden/Methoden-Uebersicht.md) | Methoden der Sozialen Arbeit — Überblick | 2026-02-27 | Kommentar |
 | [Methoden der Sozialarbeit — Методы социальной работы](./02_SOZIALARBEIT/01_Methoden/README.md) | — | — | — |
@@ -290,6 +298,7 @@ scripts
 | [Beratung in der Sozialarbeit — Консультирование](./02_SOZIALARBEIT/03_Beratung/README.md) | — | — | — |
 | [Dokumentation in der Sozialen Arbeit](./02_SOZIALARBEIT/04_Dokumentation/Dokumentation-Praxis.md) | Dokumentation in der Sozialen Arbeit | 2026-02-27 | Kommentar |
 | [Dokumentation in der Sozialarbeit — Документирование](./02_SOZIALARBEIT/04_Dokumentation/README.md) | — | — | — |
+| [Institutionen und Träger der Sozialen Arbeit](./02_SOZIALARBEIT/05_Institutionen/Institutionen-Uebersicht.md) | Institutionen und Träger der Sozialen Arbeit | 2026-02-27 | Kommentar |
 | [Institutionen & Träger — Ведомства и организации](./02_SOZIALARBEIT/05_Institutionen/README.md) | — | — | — |
 | [02 Sozialarbeit — Социальная работа](./02_SOZIALARBEIT/README.md) | — | — | — |
 | [BTHG — Bundesteilhabegesetz: Stand und Entwicklungen 2025](./03_AKTUELLES/2025/Gesetze/2025-01-01_BTHG-Umsetzung-EGH.md) | BTHG Eingliederungshilfe | 2025-01-01 | Aktuelles |
@@ -308,6 +317,7 @@ scripts
 | [03 Aktuelles — Актуальное](./03_AKTUELLES/README.md) | — | — | — |
 | [Fall: Psychotherapie nach § 6 AsylbLG abgelehnt — erfolgreich erkämpft](./04_FALLBEISPIELE/Auslaenderrecht/2026-02-27_AsylbLG-Psychotherapie-Paragraph6.md) | AsylbLG | 2026-02-27 | Fallbeispiel |
 | [Fallbeispiele Ausländerrecht — Случаи](./04_FALLBEISPIELE/Auslaenderrecht/README.md) | — | — | — |
+| [Fallbeispiel: § 35a SGB VIII — Schulbegleitung abgelehnt](./04_FALLBEISPIELE/Jugendhilfe/2026-02-27_SGB-VIII-35a-Schulbegleitung-abgelehnt.md) | § 35a SGB VIII — Schulbegleitung abgelehnt, Widerspruch erfolgreich | 2026-02-27 | Fallbeispiel |
 | [Fall: Jugendamt lehnt SPFH ab — erfolgreicher Widerspruch](./04_FALLBEISPIELE/Jugendhilfe/2026-02-27_SPFH-Antrag-abgelehnt-Widerspruch.md) | SGB VIII | 2026-02-27 | Fallbeispiel |
 | [Fallbeispiele Jugendhilfe — Случаи по SGB VIII](./04_FALLBEISPIELE/Jugendhilfe/README.md) | — | — | — |
 | [04 Fallbeispiele — Случаи из практики](./04_FALLBEISPIELE/README.md) | — | — | — |
@@ -321,7 +331,9 @@ scripts
 | [Fallbeispiele SGB XII — Случаи по Sozialhilfe](./04_FALLBEISPIELE/SGB_XII/README.md) | — | — | — |
 | [Behörden — Ведомства](./05_RESSOURCEN/Behoerden/README.md) | — | — | — |
 | [Wichtige Behörden und Anlaufstellen — Übersicht](./05_RESSOURCEN/Behoerden/Wichtige-Behoerden.md) | Wichtige Behörden und Anlaufstellen | 2026-02-27 | Kommentar |
+| [Empfohlene Fachliteratur](./05_RESSOURCEN/Fachbuecher/Empfohlene-Literatur.md) | Empfohlene Fachliteratur — Sozialrecht und Sozialarbeit | 2026-02-27 | Kommentar |
 | [Fachliteratur — Специальная литература](./05_RESSOURCEN/Fachbuecher/README.md) | — | — | — |
+| [Formulare und Antragsvordrucke — Praxisübersicht](./05_RESSOURCEN/Formulare/Formulare-Uebersicht.md) | Formulare und Antragsvordrucke — Praxisübersicht | 2026-02-27 | Kommentar |
 | [Formulare — Формуляры](./05_RESSOURCEN/Formulare/README.md) | — | — | — |
 | [Online-Datenbanken & Recherche — Базы данных](./05_RESSOURCEN/Online_Datenbanken/README.md) | — | — | — |
 | [Online-Ressourcen — Rechtsdatenbanken und Fachportale](./05_RESSOURCEN/Online_Datenbanken/Rechtsdatenbanken.md) | Online-Ressourcen und Rechtsdatenbanken | 2026-02-27 | Kommentar |
