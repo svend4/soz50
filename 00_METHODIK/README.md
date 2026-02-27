@@ -62,8 +62,17 @@ status: aktuell | veraltet | in-bearbeitung
 
 ## Быстрые ссылки
 
+### Инструкции (Anleitungen)
+- [Как добавить документ](./anleitungen/wie-dokument-hinzufuegen.md)
+- [Методы работы с большими объёмами информации](./anleitungen/methoden-grosse-datenmengen.md)
+- [Поиск — краткая справка / Шпаргалка](./anleitungen/suche-kurzreferenz.md)
+
+### Шаблоны (Vorlagen)
 - [Шаблон документа](./vorlagen/vorlage-dokument.md)
 - [Шаблон для актуальных новостей](./vorlagen/vorlage-aktuelles.md)
 - [Шаблон случая из практики](./vorlagen/vorlage-fallbeispiel.md)
-- [Как добавить документ](./anleitungen/wie-dokument-hinzufuegen.md)
-- [Как добавить случай](./anleitungen/wie-fallbeispiel-hinzufuegen.md)
+- [Шаблон карточки источника (для журналистов/правозащитников)](./vorlagen/vorlage-quellenkarteikarte.md)
+- [Шаблон документирования нарушения прав](./vorlagen/vorlage-rechtsverletzung.md)
+
+### Справочники
+- [Контролируемый словарь тегов (Schlagworte)](./schlagworte-liste.md)

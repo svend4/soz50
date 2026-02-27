@@ -39,7 +39,8 @@ Bescheid (решение)
 
 | Файл | Содержание |
 |------|-----------|
-| [widerspruch-vorlage.md](./widerspruch-vorlage.md) | Шаблон Widerspruch |
+| [Widerspruch-Musterbrief.md](./Widerspruch-Musterbrief.md) | Образец письма Widerspruch |
+| [widerspruch-vorlage.md](./widerspruch-vorlage.md) | Шаблон Widerspruch (расширенный) |
 | [einstweiliger-rechtsschutz.md](./einstweiliger-rechtsschutz.md) | Срочная правовая защита |
 | [beratungsstellen.md](./beratungsstellen.md) | Куда обратиться за помощью |
 
