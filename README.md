@@ -9,6 +9,14 @@
 
 **[→ SCHNELLREFERENZ](./SCHNELLREFERENZ.md)** — шпаргалка: ситуация → нужный раздел, фришты, чек-листы
 
+**[→ THEMEN](./THEMEN.md)** — алфавитный тематический указатель (A–Z)
+
+**[→ INDEX](./INDEX.md)** — полный список всех документов
+
+**[→ CHANGELOG](./CHANGELOG.md)** — что было добавлено и когда
+
+**[→ GLOSSAR](./GLOSSAR.md)** — словарь терминов A–Z
+
 ---
 
 ## Навигация / Navigation
@@ -61,6 +69,8 @@
 | `gen-index.sh` | `bash scripts/gen-index.sh` | Обновить полный INDEX.md |
 | `new-doc.sh` | `bash scripts/new-doc.sh <тип> <папка> <название>` | Создать документ из шаблона |
 | `new-month.sh` | `bash scripts/new-month.sh 2026 März` | Создать папку нового месяца |
+| `stats.sh` | `bash scripts/stats.sh` | Статистика базы знаний |
+| `check-links.sh` | `bash scripts/check-links.sh` | Проверить внутренние ссылки |
 
 ---
 
