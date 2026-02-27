@@ -7,6 +7,64 @@
 
 ---
 
+## 2026-02-27 — Session 10 (EGH, HzL, Arbeitsrecht, Methoden, Dokumentation, Urteile, 2025-Änderungen)
+
+### Neu erstellt
+
+**01_SOZIALRECHT:**
+- `03_SGB_XII_Sozialhilfe/Eingliederungshilfe/EGH-Praxis.md` — Antragstellung, ICF-Bedarfsermittlung, Gesamtplan § 119 SGB IX, häufige Widerspruchsgründe, Übergang § 35a → SGB IX, Zusammenspiel GKV/Pflege
+- `03_SGB_XII_Sozialhilfe/Hilfe_zum_Lebensunterhalt/HzL-Grundlagen.md` — Typische Fälle (Krankengeld-Ende, stationär, Haft-Entlassung), Berechnungsschema, Einmalleistungen, Vermögen, Nahtlosigkeit § 145 SGB III
+- `03_SGB_XII_Sozialhilfe/Urteile/SGB-XII-Urteile.md` — BVerfG Existenzminimum, BSG EU-Bürger, BSG Heimkosten, BVerwG § 23 SGB XII, BVerfG AsylbLG 2012
+- `04_SGB_VIII_Jugendhilfe/Urteile/SGB-VIII-Urteile.md` — BVerwG subjektives Recht HzE, § 35a Schulbegleitung, Inobhutnahme-Rechtsnatur, UhV + häusliche Gewalt, Datenschutz § 65 SGB VIII
+- `10_Arbeitsrecht/Kuendigung-Abmahnung.md` — KSchG Voraussetzungen, personenbedingt/verhaltensbedingt/betriebsbedingt, Abmahnungsrecht, Aufhebungsvertrag + Sperrzeit, Kündigungsschutzklage 3-Wochen-Frist, Zeugnis
+
+**02_SOZIALARBEIT:**
+- `01_Methoden/Methoden-Uebersicht.md` — Einzelfallhilfe, Gruppenarbeit, Gemeinwesenarbeit, Ressourcenorientierung, Systemische Perspektive, Thiersch Lebenswelt, Empowerment, Case Management, MI (OARS), Trauma-informiert, Krisenintervention
+- `04_Dokumentation/Dokumentation-Praxis.md` — Professionelle Begründung, DSGVO + SGB X Sozialgeheimnis, Einwilligung, Akteneinsicht § 25 SGB X, Beobachtung vs. Interpretation, Pflichtdokumente, Aufbewahrungsfristen, digitaler Datenschutz
+
+**03_AKTUELLES:**
+- `2025/Verwaltung/2025_Verwaltungsaenderungen.md` — Regelbedarfe 2025, Digitalisierung OZG, Mindestlohn 12,82 €, Kindergeld 255 €, Asyl-Widerruf Syrien, Bezahlkarte, GKV-Beiträge, Pflegeleistungen 2025, wichtige Gerichtsverfahren 2025
+
+---
+
+## 2026-02-27 — Session 9 (Grundsicherung, Inobhutnahme, UhV, GKV, Kinder, Sucht, Ressourcen)
+
+### Neu erstellt
+
+**01_SOZIALRECHT:**
+- `03_SGB_XII_Sozialhilfe/Grundsicherung/Grundsicherung-im-Alter-Praxis.md` — § 41 SGB XII, Elternunterhalt § 94 Abs. 1a (kein Rückgriff!), Schonvermögen, Eigenheim, Zuzahlungsbefreiung, Antragsfehler
+- `04_SGB_VIII_Jugendhilfe/Inobhutnahme/Inobhutnahme.md` — § 42 SGB VIII Voraussetzungen, Ablauf, Elternrechte, UMA § 42a, § 8a Schutzauftrag, Meldebefugnis
+- `04_SGB_VIII_Jugendhilfe/Unterhaltsvorschuss/Unterhaltsvorschuss.md` — UhVG Anspruch, Beträge 2026, Anrechnung SGB II, Mitwirkungspflicht, Schutz bei häuslicher Gewalt
+- `08_Krankenversicherung/GKV-Grundlagen.md` — Pflichtversicherung § 5 SGB V, Familienversicherung, GKV bei SGB II/XII/AsylbLG, Versicherungslücken, Zuzahlungsbefreiung
+
+**02_SOZIALARBEIT/02_Zielgruppen:**
+- `Kinder_Jugendliche/Hilfen-im-Ueberblick.md` — Kinderrechte SGB VIII, Schulbegleitung, Übergänge 18/21, LGBTIQ+-Jugendliche, UMA, Gesprächsführung
+- `Suchtbetroffene/Hilfen-im-Ueberblick.md` — Hilfesystem Stufenmodell, Substitution, Entwöhnungstherapie DRV, akzeptierende Sozialarbeit, Harm Reduction
+
+**05_RESSOURCEN:**
+- `Online_Datenbanken/Rechtsdatenbanken.md` — gesetze-im-internet.de, sozialgerichtsbarkeit.de, tacheles, proasyl, juris, Berechnungstools, Newsletter
+
+---
+
+## 2026-02-27 — Session 8 (Wohnungslosigkeit, Asylverfahren, Zielgruppen, Behörden, Beratung)
+
+### Neu erstellt
+
+**01_SOZIALRECHT:**
+- `07_Wohnen_Unterkunft/Wohnungslosigkeit-Hilfen.md` — § 67 SGB XII, § 22 Abs. 8 SGB II, ordnungsrechtlich, Housing First, Mietrecht
+- `06_Auslaenderrecht/Asylrecht/Asylverfahren-Ablauf.md` — 7 Phasen, Dublin, Anhörung, Entscheidungsoptionen, Klage, Syrien-Widerruf 2026
+
+**02_SOZIALARBEIT:**
+- `Gefluechtete/Beratung-Gefluechtete.md` — Dolmetscher, Trauma, Arbeitsmarktzugang, Familiennachzug
+- `Wohnungslose/Hilfen-im-Ueberblick.md` — Phasen, Sofortmaßnahmen, Housing First, Sucht, Streetwork
+- `Senioren/Hilfen-im-Ueberblick.md` — Grundsicherung im Alter (5 Irrtümer!), Pflege, Wohnen, Vorsorge
+- `03_Beratung/Beratungsgespraech.md` — Rogers-Grundhaltungen, Gesprächsphasen, MI, Case Management, Krisenintervention
+
+**05_RESSOURCEN:**
+- `Behoerden/Wichtige-Behoerden.md` — alle Träger mit Kontakt, Bürgertelefone, Verbände
+
+---
+
 ## 2026-02-27 — Session 7 (SGB VIII, SGB XI, Rentenrecht, Aufenthaltsrecht, Zielgruppen)
 
 ### Neu erstellt
