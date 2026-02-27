@@ -15,6 +15,8 @@
 
 **[→ CHANGELOG](./CHANGELOG.md)** — что было добавлено и когда
 
+**[→ GLOSSAR](./GLOSSAR.md)** — словарь терминов A–Z
+
 ---
 
 ## Навигация / Navigation

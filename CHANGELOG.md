@@ -7,6 +7,32 @@
 
 ---
 
+## 2026-02-27 — Session 6 (Glossar, SGB III, AsylbLG vertieft, Urteile, Aktuelles)
+
+### Neu erstellt
+
+**Navigation:**
+- `GLOSSAR.md` — Alphabetisches Fachglossar (60+ Begriffe mit Links)
+- `THEMEN.md` — ALG I, Sanktionen, SGB III ergänzt
+
+**01_SOZIALRECHT:**
+- `11_SGB_III_Arbeitsfoerderung/README.md` — ALG I (Höhe, Dauer, Anwartschaft), Sperrzeiten, Weiterbildung, KUG, Nahtlosigkeit
+- `06_Auslaenderrecht/AsylbLG/Leistungen-Uebersicht.md` — § 3 vs. § 2 im Detail, Taschengeld 2026, § 6 Ermessen
+- `02_SGB_II_Buergergeld/Urteile/Wichtige-BSG-Urteile.md` — KdU, Mehrbedarf, Sanktionen, EU-Bürger, § 44 SGB X
+- `02_SGB_II_Buergergeld/Sanktionen/Sanktionswiderspruch-Musterbrief.md` — 4 Begründungsbausteine, Eilrechtsschutz-Vorlage
+- `03_SGB_XII_Sozialhilfe/SGB-XII-Einkommensanrechnung.md` — § 82/90 SGB XII, Schonvermögen, Elternunterhalt
+
+**03_AKTUELLES:**
+- `2025/Urteile/2025_Wichtige-Sozialgerichtsurteile.md` — BSG/BVerfG/EuGH 2025
+- `2026/Februar/2026-02-27_Aktuell-Sozialrecht-Februar.md` — Pflegereform, Koalitionsvertrag, Syrien-Widerruf
+
+**04_FALLBEISPIELE:**
+- `SGB_II/2026-02-27_Sanktion-Widerspruch-BVerfG.md` — Anhörungsfehler + psychische Erkrankung
+
+**README.md:** GLOSSAR verlinkt
+
+---
+
 ## 2026-02-27 — Session 5 (Vertiefung + Querindex)
 
 ### Neu erstellt

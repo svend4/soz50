@@ -8,7 +8,18 @@
 
 ---
 
+## Glossar / Terminologie
+
+→ **[GLOSSAR — alle Fachbegriffe A–Z](./GLOSSAR.md)**
+
+---
+
 ## A
+
+### ALG I (Arbeitslosengeld I)
+- [SGB III — Arbeitsförderung](./01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung/)
+- [Sperrzeiten anfechten](./01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung/)
+- [GLOSSAR: ALG I](./GLOSSAR.md)
 
 ### Alleinerziehende
 - [Mehrbedarf § 21 Abs. 3 SGB II](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/Mehrbedarf-Uebersicht.md)
@@ -204,6 +215,12 @@
 
 ### Sanktionen (SGB II)
 - [Sanktionen — BVerfG 2019](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Sanktionen/)
+- [Sanktionswiderspruch Musterbrief](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Sanktionen/Sanktionswiderspruch-Musterbrief.md)
+- [Fallbeispiel Sanktion + psychische Erkrankung](./04_FALLBEISPIELE/SGB_II/2026-02-27_Sanktion-Widerspruch-BVerfG.md)
+
+### SGB III / ALG I
+- [SGB III — Arbeitsförderung](./01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung/)
+- [Sperrzeiten + Weiterbildungsförderung](./01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung/)
 
 ### Schuldnerberatung
 - [Zielgruppe Wohnungslose](./02_SOZIALARBEIT/02_Zielgruppen/Wohnungslose/)

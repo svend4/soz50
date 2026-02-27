@@ -1,6 +1,6 @@
 # INDEX — Полный индекс документов
 
-> Автоматически сгенерировано: 2026-02-27 14:48
+> Автоматически сгенерировано: 2026-02-27 15:07
 
 [← Главная](./README.md)
 
@@ -35,8 +35,10 @@
 01_SOZIALRECHT/02_SGB_II_Buergergeld/README.md
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Sanktionen
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Sanktionen/README.md
+01_SOZIALRECHT/02_SGB_II_Buergergeld/Sanktionen/Sanktionswiderspruch-Musterbrief.md
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Urteile
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Urteile/README.md
+01_SOZIALRECHT/02_SGB_II_Buergergeld/Urteile/Wichtige-BSG-Urteile.md
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/README.md
 01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/Widerspruch-Musterbrief.md
@@ -48,6 +50,7 @@
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Hilfe_zum_Lebensunterhalt
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Hilfe_zum_Lebensunterhalt/README.md
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/README.md
+01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/SGB-XII-Einkommensanrechnung.md
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Urteile
 01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Urteile/README.md
 01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe
@@ -64,6 +67,7 @@
 01_SOZIALRECHT/05_SGB_XI_Pflege/README.md
 01_SOZIALRECHT/06_Auslaenderrecht
 01_SOZIALRECHT/06_Auslaenderrecht/AsylbLG
+01_SOZIALRECHT/06_Auslaenderrecht/AsylbLG/Leistungen-Uebersicht.md
 01_SOZIALRECHT/06_Auslaenderrecht/AsylbLG/README.md
 01_SOZIALRECHT/06_Auslaenderrecht/Asylrecht
 01_SOZIALRECHT/06_Auslaenderrecht/Asylrecht/README.md
@@ -80,6 +84,8 @@
 01_SOZIALRECHT/09_Rentenrecht/README.md
 01_SOZIALRECHT/10_Arbeitsrecht
 01_SOZIALRECHT/10_Arbeitsrecht/README.md
+01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung
+01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung/README.md
 01_SOZIALRECHT/README.md
 02_SOZIALARBEIT
 02_SOZIALARBEIT/01_Methoden
@@ -115,11 +121,13 @@
 03_AKTUELLES/2025/Gesetze/README.md
 03_AKTUELLES/2025/README.md
 03_AKTUELLES/2025/Urteile
+03_AKTUELLES/2025/Urteile/2025_Wichtige-Sozialgerichtsurteile.md
 03_AKTUELLES/2025/Urteile/README.md
 03_AKTUELLES/2025/Verwaltung
 03_AKTUELLES/2025/Verwaltung/README.md
 03_AKTUELLES/2026
 03_AKTUELLES/2026/Februar
+03_AKTUELLES/2026/Februar/2026-02-27_Aktuell-Sozialrecht-Februar.md
 03_AKTUELLES/2026/Februar/README.md
 03_AKTUELLES/2026/Januar
 03_AKTUELLES/2026/Januar/2026-01-01_Buergergeld-Regelsaetze-2026.md
@@ -137,6 +145,7 @@
 04_FALLBEISPIELE/SGB_II
 04_FALLBEISPIELE/SGB_II/2026-02-27_EU-Buerger-SGB-II-Zugang.md
 04_FALLBEISPIELE/SGB_II/2026-02-27_KdU-Widerspruch-Angemessenheit.md
+04_FALLBEISPIELE/SGB_II/2026-02-27_Sanktion-Widerspruch-BVerfG.md
 04_FALLBEISPIELE/SGB_II/README.md
 04_FALLBEISPIELE/SGB_XI
 04_FALLBEISPIELE/SGB_XI/2026-02-27_Pflegegrad-Widerspruch-Erhöhung.md
@@ -155,6 +164,7 @@
 05_RESSOURCEN/Online_Datenbanken/README.md
 05_RESSOURCEN/README.md
 CHANGELOG.md
+GLOSSAR.md
 INDEX.md
 README.md
 SCHNELLREFERENZ.md
@@ -185,13 +195,16 @@ scripts
 | [Leistungen nach SGB II — Виды выплат](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Leistungen/README.md) | — | — | — |
 | [SGB II — Bürgergeld (Grundsicherung für Arbeitsuchende)](./01_SOZIALRECHT/02_SGB_II_Buergergeld/README.md) | — | — | — |
 | [Sanktionen im SGB II — Санкции](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Sanktionen/README.md) | — | — | — |
+| [Musterbrief: Widerspruch gegen Sanktionsbescheid (SGB II)](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Sanktionen/Sanktionswiderspruch-Musterbrief.md) | Sanktion Widerspruch Musterbrief | 2026-02-27 | Vorlage |
 | [Urteile SGB II — Судебные решения по Bürgergeld](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Urteile/README.md) | — | — | — |
+| [Wichtige BSG-Urteile zu SGB II / Bürgergeld](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Urteile/Wichtige-BSG-Urteile.md) | BSG-Urteile SGB II | 2026-02-27 | Kommentar |
 | [Widerspruch & Klage — Оспаривание решений Jobcenter](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/README.md) | — | — | — |
 | [Musterbrief: Widerspruch gegen Bescheid des Jobcenters](./01_SOZIALRECHT/02_SGB_II_Buergergeld/Widerspruch/Widerspruch-Musterbrief.md) | SGB II | 2026-02-27 | Vorlage |
 | [Eingliederungshilfe — SGB IX (ab 2020)](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Eingliederungshilfe/README.md) | — | — | — |
 | [Grundsicherung im Alter und bei Erwerbsminderung — §§ 41–46b SGB XII](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Grundsicherung/README.md) | — | — | — |
 | [Hilfe zum Lebensunterhalt — §§ 27–40 SGB XII](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Hilfe_zum_Lebensunterhalt/README.md) | — | — | — |
 | [SGB XII — Sozialhilfe](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/README.md) | — | — | — |
+| [Einkommens- und Vermögensanrechnung nach SGB XII](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/SGB-XII-Einkommensanrechnung.md) | SGB XII Einkommensanrechnung | 2026-02-27 | Kommentar |
 | [Urteile SGB XII — Судебные решения](./01_SOZIALRECHT/03_SGB_XII_Sozialhilfe/Urteile/README.md) | — | — | — |
 | [Hilfen zur Erziehung — §§ 27–35 SGB VIII](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Hilfen_zur_Erziehung/README.md) | — | — | — |
 | [Inobhutnahme — § 42 SGB VIII](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Inobhutnahme/README.md) | — | — | — |
@@ -199,6 +212,7 @@ scripts
 | [Unterhaltsvorschuss — UhVorschG](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Unterhaltsvorschuss/README.md) | — | — | — |
 | [Urteile SGB VIII — Судебные решения по Jugendhilfe](./01_SOZIALRECHT/04_SGB_VIII_Jugendhilfe/Urteile/README.md) | — | — | — |
 | [SGB XI — Soziale Pflegeversicherung](./01_SOZIALRECHT/05_SGB_XI_Pflege/README.md) | — | — | — |
+| [AsylbLG — Leistungen im Detail](./01_SOZIALRECHT/06_Auslaenderrecht/AsylbLG/Leistungen-Uebersicht.md) | AsylbLG Leistungen | 2026-02-27 | Kommentar |
 | [AsylbLG — Asylbewerberleistungsgesetz](./01_SOZIALRECHT/06_Auslaenderrecht/AsylbLG/README.md) | — | — | — |
 | [Asylrecht — Право на убежище](./01_SOZIALRECHT/06_Auslaenderrecht/Asylrecht/README.md) | — | — | — |
 | [Aufenthaltsrecht — Право пребывания](./01_SOZIALRECHT/06_Auslaenderrecht/Aufenthaltsrecht/README.md) | — | — | — |
@@ -208,6 +222,7 @@ scripts
 | [Krankenversicherung — Медицинское страхование](./01_SOZIALRECHT/08_Krankenversicherung/README.md) | — | — | — |
 | [Rentenrecht — Пенсионное право](./01_SOZIALRECHT/09_Rentenrecht/README.md) | — | — | — |
 | [Arbeitsrecht — Трудовое право](./01_SOZIALRECHT/10_Arbeitsrecht/README.md) | — | — | — |
+| [SGB III — Arbeitsförderung (ALG I, Berufsberatung, Weiterbildung)](./01_SOZIALRECHT/11_SGB_III_Arbeitsfoerderung/README.md) | — | — | — |
 | [01 Sozialrecht — Социальное право](./01_SOZIALRECHT/README.md) | — | — | — |
 | [Methoden der Sozialarbeit — Методы социальной работы](./02_SOZIALARBEIT/01_Methoden/README.md) | — | — | — |
 | [Familien — Семьи в трудной жизненной ситуации](./02_SOZIALARBEIT/02_Zielgruppen/Familien/README.md) | — | — | — |
@@ -226,8 +241,10 @@ scripts
 | [Cannabis-Legalisierung — Auswirkungen auf das Sozialrecht](./03_AKTUELLES/2025/Gesetze/2025-04-01_Cannabis-Legalisierung-Sozialrecht.md) | Cannabis-Gesetz Sozialrecht | 2025-04-01 | Aktuelles |
 | [Gesetzliche Änderungen 2025](./03_AKTUELLES/2025/Gesetze/README.md) | — | — | — |
 | [Aktuelles 2025](./03_AKTUELLES/2025/README.md) | — | — | — |
+| [Wichtige Sozialgerichtsurteile 2025](./03_AKTUELLES/2025/Urteile/2025_Wichtige-Sozialgerichtsurteile.md) | Sozialgerichtsurteile 2025 | 2025-12-31 | Aktuelles |
 | [Wichtige Urteile 2025](./03_AKTUELLES/2025/Urteile/README.md) | — | — | — |
 | [Verwaltungsänderungen 2025](./03_AKTUELLES/2025/Verwaltung/README.md) | — | — | — |
+| [Aktuell: Sozialrecht im Februar 2026](./03_AKTUELLES/2026/Februar/2026-02-27_Aktuell-Sozialrecht-Februar.md) | Sozialrecht Februar 2026 | 2026-02-27 | Aktuelles |
 | [Februar 2026](./03_AKTUELLES/2026/Februar/README.md) | — | — | — |
 | [Bürgergeld — Regelbedarfssätze ab 01.01.2026](./03_AKTUELLES/2026/Januar/2026-01-01_Buergergeld-Regelsaetze-2026.md) | SGB II | 2026-01-01 | Aktuelles |
 | [Januar 2026](./03_AKTUELLES/2026/Januar/README.md) | — | — | — |
@@ -240,6 +257,7 @@ scripts
 | [04 Fallbeispiele — Случаи из практики](./04_FALLBEISPIELE/README.md) | — | — | — |
 | [Fallbeispiel: EU-Bürger — Zugang zu SGB II trotz Ausschlussklausel](./04_FALLBEISPIELE/SGB_II/2026-02-27_EU-Buerger-SGB-II-Zugang.md) | EU-Bürger SGB II Zugang | 2026-02-27 | Fallbeispiel |
 | [Fall: Jobcenter kürzt Miete — kein schlüssiges Konzept](./04_FALLBEISPIELE/SGB_II/2026-02-27_KdU-Widerspruch-Angemessenheit.md) | SGB II | 2026-02-27 | Fallbeispiel |
+| [Fallbeispiel: Sanktionswiderspruch — Anhörungsfehler + psychische Erkrankung](./04_FALLBEISPIELE/SGB_II/2026-02-27_Sanktion-Widerspruch-BVerfG.md) | Sanktion Widerspruch | 2026-02-27 | Fallbeispiel |
 | [Fallbeispiele SGB II — Случаи по Bürgergeld](./04_FALLBEISPIELE/SGB_II/README.md) | — | — | — |
 | [Fallbeispiel: Pflegegrad-Widerspruch — Begutachtung angefochten](./04_FALLBEISPIELE/SGB_XI/2026-02-27_Pflegegrad-Widerspruch-Erhöhung.md) | Pflegegrad Widerspruch | 2026-02-27 | Fallbeispiel |
 | [Fallbeispiele SGB XI — Pflege](./04_FALLBEISPIELE/SGB_XI/README.md) | — | — | — |
@@ -251,6 +269,7 @@ scripts
 | [Online-Datenbanken & Recherche — Базы данных](./05_RESSOURCEN/Online_Datenbanken/README.md) | — | — | — |
 | [05 Ressourcen — Ресурсы](./05_RESSOURCEN/README.md) | — | — | — |
 | [CHANGELOG — Änderungsprotokoll](./CHANGELOG.md) | — | — | — |
+| [GLOSSAR — Fachbegriffe Sozialrecht & Sozialarbeit](./GLOSSAR.md) | — | — | — |
 | [Sozialrecht & Sozialarbeit — Wissensbasis / База знаний](./README.md) | — | — | — |
 | [Schnellreferenz — Шпаргалка для быстрой навигации](./SCHNELLREFERENZ.md) | — | — | — |
 | [THEMEN — Thematischer Querindex](./THEMEN.md) | — | — | — |
