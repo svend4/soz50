@@ -12,6 +12,7 @@
 |-------|-------|
 | [SGB_II/](./SGB_II/) | Случаи по Bürgergeld |
 | [SGB_XII/](./SGB_XII/) | Случаи по Sozialhilfe |
+| [SGB_IX/](./SGB_IX/) | Случаи по Rehabilitation und Teilhabe |
 | [Jugendhilfe/](./Jugendhilfe/) | Случаи по SGB VIII |
 | [Auslaenderrecht/](./Auslaenderrecht/) | Случаи по праву иностранцев |
 

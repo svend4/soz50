@@ -105,8 +105,18 @@ Umsetzung + jährliche Überprüfung
 
 ---
 
+## Dokumente in diesem Verzeichnis
+
+| Dokument | Inhalt |
+|---------|--------|
+| [EGH-Praxis.md](./EGH-Praxis.md) | Praxisleitfaden Eingliederungshilfe |
+| [SGB-IX-Paragraph29-Persoenliches-Budget.md](./SGB-IX-Paragraph29-Persoenliches-Budget.md) | § 29 SGB IX — Persönliches Budget (Normtext, Verfahren, Rechtsschutz) |
+
+---
+
 ## Смотри также
 
 - [SGB XII Grundsicherung](../Grundsicherung/)
 - [Menschen mit Behinderung — Sozialarbeit](../../../02_SOZIALARBEIT/02_Zielgruppen/Menschen_mit_Behinderung/)
 - [SGB VIII § 35a](../../04_SGB_VIII_Jugendhilfe/)
+- [Fallakte S 7 SO 99/25 Dresden](../../../04_FALLBEISPIELE/SGB_IX/S7-SO-99-25-Fallakte.md)
